@@ -1,0 +1,5760 @@
+
+(push)
+(declare-const Tokens0 Int)
+(declare-const A0 Int)
+(declare-const B0 Int)
+(declare-const x0 Int)
+(declare-const y0 Int)
+
+(assert (and (= x0 10000000018849) (= y0 10000000008875)))
+(assert (= Tokens0 (+ B0 (* 3 A0))))
+(assert (= x0 (+ (* B0 23) (* A0 42))))
+(assert (= y0 (+ (* B0 55) (* A0 24))))
+
+(minimize Tokens0)
+(check-sat)
+(get-value (Tokens0))
+(pop)
+    
+
+(push)
+(declare-const Tokens1 Int)
+(declare-const A1 Int)
+(declare-const B1 Int)
+(declare-const x1 Int)
+(declare-const y1 Int)
+
+(assert (and (= x1 10000000006352) (= y1 10000000005202)))
+(assert (= Tokens1 (+ B1 (* 3 A1))))
+(assert (= x1 (+ (* B1 35) (* A1 89))))
+(assert (= y1 (+ (* B1 95) (* A1 34))))
+
+(minimize Tokens1)
+(check-sat)
+(get-value (Tokens1))
+(pop)
+    
+
+(push)
+(declare-const Tokens2 Int)
+(declare-const A2 Int)
+(declare-const B2 Int)
+(declare-const x2 Int)
+(declare-const y2 Int)
+
+(assert (and (= x2 10000000008253) (= y2 10000000004314)))
+(assert (= Tokens2 (+ B2 (* 3 A2))))
+(assert (= x2 (+ (* B2 28) (* A2 85))))
+(assert (= y2 (+ (* B2 48) (* A2 18))))
+
+(minimize Tokens2)
+(check-sat)
+(get-value (Tokens2))
+(pop)
+    
+
+(push)
+(declare-const Tokens3 Int)
+(declare-const A3 Int)
+(declare-const B3 Int)
+(declare-const x3 Int)
+(declare-const y3 Int)
+
+(assert (and (= x3 10000000012904) (= y3 10000000011034)))
+(assert (= Tokens3 (+ B3 (* 3 A3))))
+(assert (= x3 (+ (* B3 89) (* A3 74))))
+(assert (= y3 (+ (* B3 29) (* A3 96))))
+
+(minimize Tokens3)
+(check-sat)
+(get-value (Tokens3))
+(pop)
+    
+
+(push)
+(declare-const Tokens4 Int)
+(declare-const A4 Int)
+(declare-const B4 Int)
+(declare-const x4 Int)
+(declare-const y4 Int)
+
+(assert (and (= x4 10000000014746) (= y4 10000000017141)))
+(assert (= Tokens4 (+ B4 (* 3 A4))))
+(assert (= x4 (+ (* B4 14) (* A4 53))))
+(assert (= y4 (+ (* B4 43) (* A4 17))))
+
+(minimize Tokens4)
+(check-sat)
+(get-value (Tokens4))
+(pop)
+    
+
+(push)
+(declare-const Tokens5 Int)
+(declare-const A5 Int)
+(declare-const B5 Int)
+(declare-const x5 Int)
+(declare-const y5 Int)
+
+(assert (and (= x5 10000000006923) (= y5 10000000009632)))
+(assert (= Tokens5 (+ B5 (* 3 A5))))
+(assert (= x5 (+ (* B5 35) (* A5 91))))
+(assert (= y5 (+ (* B5 86) (* A5 52))))
+
+(minimize Tokens5)
+(check-sat)
+(get-value (Tokens5))
+(pop)
+    
+
+(push)
+(declare-const Tokens6 Int)
+(declare-const A6 Int)
+(declare-const B6 Int)
+(declare-const x6 Int)
+(declare-const y6 Int)
+
+(assert (and (= x6 10000000004801) (= y6 10000000004570)))
+(assert (= Tokens6 (+ B6 (* 3 A6))))
+(assert (= x6 (+ (* B6 13) (* A6 60))))
+(assert (= y6 (+ (* B6 34) (* A6 46))))
+
+(minimize Tokens6)
+(check-sat)
+(get-value (Tokens6))
+(pop)
+    
+
+(push)
+(declare-const Tokens7 Int)
+(declare-const A7 Int)
+(declare-const B7 Int)
+(declare-const x7 Int)
+(declare-const y7 Int)
+
+(assert (and (= x7 10000000006544) (= y7 10000000003856)))
+(assert (= Tokens7 (+ B7 (* 3 A7))))
+(assert (= x7 (+ (* B7 80) (* A7 48))))
+(assert (= y7 (+ (* B7 32) (* A7 88))))
+
+(minimize Tokens7)
+(check-sat)
+(get-value (Tokens7))
+(pop)
+    
+
+(push)
+(declare-const Tokens8 Int)
+(declare-const A8 Int)
+(declare-const B8 Int)
+(declare-const x8 Int)
+(declare-const y8 Int)
+
+(assert (and (= x8 10000000016097) (= y8 10000000010266)))
+(assert (= Tokens8 (+ B8 (* 3 A8))))
+(assert (= x8 (+ (* B8 33) (* A8 42))))
+(assert (= y8 (+ (* B8 52) (* A8 21))))
+
+(minimize Tokens8)
+(check-sat)
+(get-value (Tokens8))
+(pop)
+    
+
+(push)
+(declare-const Tokens9 Int)
+(declare-const A9 Int)
+(declare-const B9 Int)
+(declare-const x9 Int)
+(declare-const y9 Int)
+
+(assert (and (= x9 10000000010061) (= y9 10000000005873)))
+(assert (= Tokens9 (+ B9 (* 3 A9))))
+(assert (= x9 (+ (* B9 94) (* A9 41))))
+(assert (= y9 (+ (* B9 43) (* A9 74))))
+
+(minimize Tokens9)
+(check-sat)
+(get-value (Tokens9))
+(pop)
+    
+
+(push)
+(declare-const Tokens10 Int)
+(declare-const A10 Int)
+(declare-const B10 Int)
+(declare-const x10 Int)
+(declare-const y10 Int)
+
+(assert (and (= x10 10000000006496) (= y10 10000000003254)))
+(assert (= Tokens10 (+ B10 (* 3 A10))))
+(assert (= x10 (+ (* B10 11) (* A10 57))))
+(assert (= y10 (+ (* B10 26) (* A10 41))))
+
+(minimize Tokens10)
+(check-sat)
+(get-value (Tokens10))
+(pop)
+    
+
+(push)
+(declare-const Tokens11 Int)
+(declare-const A11 Int)
+(declare-const B11 Int)
+(declare-const x11 Int)
+(declare-const y11 Int)
+
+(assert (and (= x11 10000000004759) (= y11 10000000004846)))
+(assert (= Tokens11 (+ B11 (* 3 A11))))
+(assert (= x11 (+ (* B11 55) (* A11 14))))
+(assert (= y11 (+ (* B11 15) (* A11 61))))
+
+(minimize Tokens11)
+(check-sat)
+(get-value (Tokens11))
+(pop)
+    
+
+(push)
+(declare-const Tokens12 Int)
+(declare-const A12 Int)
+(declare-const B12 Int)
+(declare-const x12 Int)
+(declare-const y12 Int)
+
+(assert (and (= x12 10000000015407) (= y12 10000000010414)))
+(assert (= Tokens12 (+ B12 (* 3 A12))))
+(assert (= x12 (+ (* B12 91) (* A12 98))))
+(assert (= y12 (+ (* B12 98) (* A12 16))))
+
+(minimize Tokens12)
+(check-sat)
+(get-value (Tokens12))
+(pop)
+    
+
+(push)
+(declare-const Tokens13 Int)
+(declare-const A13 Int)
+(declare-const B13 Int)
+(declare-const x13 Int)
+(declare-const y13 Int)
+
+(assert (and (= x13 10000000002182) (= y13 10000000003446)))
+(assert (= Tokens13 (+ B13 (* 3 A13))))
+(assert (= x13 (+ (* B13 22) (* A13 54))))
+(assert (= y13 (+ (* B13 41) (* A13 12))))
+
+(minimize Tokens13)
+(check-sat)
+(get-value (Tokens13))
+(pop)
+    
+
+(push)
+(declare-const Tokens14 Int)
+(declare-const A14 Int)
+(declare-const B14 Int)
+(declare-const x14 Int)
+(declare-const y14 Int)
+
+(assert (and (= x14 10000000005964) (= y14 10000000003225)))
+(assert (= Tokens14 (+ B14 (* 3 A14))))
+(assert (= x14 (+ (* B14 25) (* A14 69))))
+(assert (= y14 (+ (* B14 80) (* A14 25))))
+
+(minimize Tokens14)
+(check-sat)
+(get-value (Tokens14))
+(pop)
+    
+
+(push)
+(declare-const Tokens15 Int)
+(declare-const A15 Int)
+(declare-const B15 Int)
+(declare-const x15 Int)
+(declare-const y15 Int)
+
+(assert (and (= x15 10000000003607) (= y15 10000000019081)))
+(assert (= Tokens15 (+ B15 (* 3 A15))))
+(assert (= x15 (+ (* B15 24) (* A15 17))))
+(assert (= y15 (+ (* B15 12) (* A15 35))))
+
+(minimize Tokens15)
+(check-sat)
+(get-value (Tokens15))
+(pop)
+    
+
+(push)
+(declare-const Tokens16 Int)
+(declare-const A16 Int)
+(declare-const B16 Int)
+(declare-const x16 Int)
+(declare-const y16 Int)
+
+(assert (and (= x16 10000000017650) (= y16 10000000009538)))
+(assert (= Tokens16 (+ B16 (* 3 A16))))
+(assert (= x16 (+ (* B16 20) (* A16 46))))
+(assert (= y16 (+ (* B16 44) (* A16 14))))
+
+(minimize Tokens16)
+(check-sat)
+(get-value (Tokens16))
+(pop)
+    
+
+(push)
+(declare-const Tokens17 Int)
+(declare-const A17 Int)
+(declare-const B17 Int)
+(declare-const x17 Int)
+(declare-const y17 Int)
+
+(assert (and (= x17 10000000008975) (= y17 10000000004900)))
+(assert (= Tokens17 (+ B17 (* 3 A17))))
+(assert (= x17 (+ (* B17 35) (* A17 95))))
+(assert (= y17 (+ (* B17 64) (* A17 28))))
+
+(minimize Tokens17)
+(check-sat)
+(get-value (Tokens17))
+(pop)
+    
+
+(push)
+(declare-const Tokens18 Int)
+(declare-const A18 Int)
+(declare-const B18 Int)
+(declare-const x18 Int)
+(declare-const y18 Int)
+
+(assert (and (= x18 10000000007554) (= y18 10000000005010)))
+(assert (= Tokens18 (+ B18 (* 3 A18))))
+(assert (= x18 (+ (* B18 53) (* A18 73))))
+(assert (= y18 (+ (* B18 70) (* A18 20))))
+
+(minimize Tokens18)
+(check-sat)
+(get-value (Tokens18))
+(pop)
+    
+
+(push)
+(declare-const Tokens19 Int)
+(declare-const A19 Int)
+(declare-const B19 Int)
+(declare-const x19 Int)
+(declare-const y19 Int)
+
+(assert (and (= x19 10000000013066) (= y19 10000000012600)))
+(assert (= Tokens19 (+ B19 (* 3 A19))))
+(assert (= x19 (+ (* B19 62) (* A19 16))))
+(assert (= y19 (+ (* B19 16) (* A19 76))))
+
+(minimize Tokens19)
+(check-sat)
+(get-value (Tokens19))
+(pop)
+    
+
+(push)
+(declare-const Tokens20 Int)
+(declare-const A20 Int)
+(declare-const B20 Int)
+(declare-const x20 Int)
+(declare-const y20 Int)
+
+(assert (and (= x20 10000000002801) (= y20 10000000006226)))
+(assert (= Tokens20 (+ B20 (* 3 A20))))
+(assert (= x20 (+ (* B20 19) (* A20 29))))
+(assert (= y20 (+ (* B20 80) (* A20 19))))
+
+(minimize Tokens20)
+(check-sat)
+(get-value (Tokens20))
+(pop)
+    
+
+(push)
+(declare-const Tokens21 Int)
+(declare-const A21 Int)
+(declare-const B21 Int)
+(declare-const x21 Int)
+(declare-const y21 Int)
+
+(assert (and (= x21 10000000011819) (= y21 10000000008412)))
+(assert (= Tokens21 (+ B21 (* 3 A21))))
+(assert (= x21 (+ (* B21 81) (* A21 12))))
+(assert (= y21 (+ (* B21 54) (* A21 37))))
+
+(minimize Tokens21)
+(check-sat)
+(get-value (Tokens21))
+(pop)
+    
+
+(push)
+(declare-const Tokens22 Int)
+(declare-const A22 Int)
+(declare-const B22 Int)
+(declare-const x22 Int)
+(declare-const y22 Int)
+
+(assert (and (= x22 10000000005807) (= y22 10000000004894)))
+(assert (= Tokens22 (+ B22 (* 3 A22))))
+(assert (= x22 (+ (* B22 67) (* A22 24))))
+(assert (= y22 (+ (* B22 32) (* A22 90))))
+
+(minimize Tokens22)
+(check-sat)
+(get-value (Tokens22))
+(pop)
+    
+
+(push)
+(declare-const Tokens23 Int)
+(declare-const A23 Int)
+(declare-const B23 Int)
+(declare-const x23 Int)
+(declare-const y23 Int)
+
+(assert (and (= x23 10000000011513) (= y23 10000000007433)))
+(assert (= Tokens23 (+ B23 (* 3 A23))))
+(assert (= x23 (+ (* B23 38) (* A23 37))))
+(assert (= y23 (+ (* B23 11) (* A23 67))))
+
+(minimize Tokens23)
+(check-sat)
+(get-value (Tokens23))
+(pop)
+    
+
+(push)
+(declare-const Tokens24 Int)
+(declare-const A24 Int)
+(declare-const B24 Int)
+(declare-const x24 Int)
+(declare-const y24 Int)
+
+(assert (and (= x24 10000000004958) (= y24 10000000003992)))
+(assert (= Tokens24 (+ B24 (* 3 A24))))
+(assert (= x24 (+ (* B24 12) (* A24 91))))
+(assert (= y24 (+ (* B24 88) (* A24 20))))
+
+(minimize Tokens24)
+(check-sat)
+(get-value (Tokens24))
+(pop)
+    
+
+(push)
+(declare-const Tokens25 Int)
+(declare-const A25 Int)
+(declare-const B25 Int)
+(declare-const x25 Int)
+(declare-const y25 Int)
+
+(assert (and (= x25 10000000019689) (= y25 10000000001491)))
+(assert (= Tokens25 (+ B25 (* 3 A25))))
+(assert (= x25 (+ (* B25 41) (* A25 44))))
+(assert (= y25 (+ (* B25 67) (* A25 20))))
+
+(minimize Tokens25)
+(check-sat)
+(get-value (Tokens25))
+(pop)
+    
+
+(push)
+(declare-const Tokens26 Int)
+(declare-const A26 Int)
+(declare-const B26 Int)
+(declare-const x26 Int)
+(declare-const y26 Int)
+
+(assert (and (= x26 10000000014498) (= y26 10000000013074)))
+(assert (= Tokens26 (+ B26 (* 3 A26))))
+(assert (= x26 (+ (* B26 66) (* A26 12))))
+(assert (= y26 (+ (* B26 48) (* A26 35))))
+
+(minimize Tokens26)
+(check-sat)
+(get-value (Tokens26))
+(pop)
+    
+
+(push)
+(declare-const Tokens27 Int)
+(declare-const A27 Int)
+(declare-const B27 Int)
+(declare-const x27 Int)
+(declare-const y27 Int)
+
+(assert (and (= x27 10000000008425) (= y27 10000000001376)))
+(assert (= Tokens27 (+ B27 (* 3 A27))))
+(assert (= x27 (+ (* B27 63) (* A27 28))))
+(assert (= y27 (+ (* B27 30) (* A27 57))))
+
+(minimize Tokens27)
+(check-sat)
+(get-value (Tokens27))
+(pop)
+    
+
+(push)
+(declare-const Tokens28 Int)
+(declare-const A28 Int)
+(declare-const B28 Int)
+(declare-const x28 Int)
+(declare-const y28 Int)
+
+(assert (and (= x28 10000000005100) (= y28 10000000004176)))
+(assert (= Tokens28 (+ B28 (* 3 A28))))
+(assert (= x28 (+ (* B28 17) (* A28 85))))
+(assert (= y28 (+ (* B28 60) (* A28 44))))
+
+(minimize Tokens28)
+(check-sat)
+(get-value (Tokens28))
+(pop)
+    
+
+(push)
+(declare-const Tokens29 Int)
+(declare-const A29 Int)
+(declare-const B29 Int)
+(declare-const x29 Int)
+(declare-const y29 Int)
+
+(assert (and (= x29 10000000004491) (= y29 10000000005753)))
+(assert (= Tokens29 (+ B29 (* 3 A29))))
+(assert (= x29 (+ (* B29 64) (* A29 11))))
+(assert (= y29 (+ (* B29 27) (* A29 64))))
+
+(minimize Tokens29)
+(check-sat)
+(get-value (Tokens29))
+(pop)
+    
+
+(push)
+(declare-const Tokens30 Int)
+(declare-const A30 Int)
+(declare-const B30 Int)
+(declare-const x30 Int)
+(declare-const y30 Int)
+
+(assert (and (= x30 10000000002325) (= y30 10000000004308)))
+(assert (= Tokens30 (+ B30 (* 3 A30))))
+(assert (= x30 (+ (* B30 68) (* A30 13))))
+(assert (= y30 (+ (* B30 31) (* A30 53))))
+
+(minimize Tokens30)
+(check-sat)
+(get-value (Tokens30))
+(pop)
+    
+
+(push)
+(declare-const Tokens31 Int)
+(declare-const A31 Int)
+(declare-const B31 Int)
+(declare-const x31 Int)
+(declare-const y31 Int)
+
+(assert (and (= x31 10000000006113) (= y31 10000000011903)))
+(assert (= Tokens31 (+ B31 (* 3 A31))))
+(assert (= x31 (+ (* B31 70) (* A31 23))))
+(assert (= y31 (+ (* B31 44) (* A31 51))))
+
+(minimize Tokens31)
+(check-sat)
+(get-value (Tokens31))
+(pop)
+    
+
+(push)
+(declare-const Tokens32 Int)
+(declare-const A32 Int)
+(declare-const B32 Int)
+(declare-const x32 Int)
+(declare-const y32 Int)
+
+(assert (and (= x32 10000000003058) (= y32 10000000007932)))
+(assert (= Tokens32 (+ B32 (* 3 A32))))
+(assert (= x32 (+ (* B32 59) (* A32 22))))
+(assert (= y32 (+ (* B32 18) (* A32 52))))
+
+(minimize Tokens32)
+(check-sat)
+(get-value (Tokens32))
+(pop)
+    
+
+(push)
+(declare-const Tokens33 Int)
+(declare-const A33 Int)
+(declare-const B33 Int)
+(declare-const x33 Int)
+(declare-const y33 Int)
+
+(assert (and (= x33 10000000006339) (= y33 10000000005360)))
+(assert (= Tokens33 (+ B33 (* 3 A33))))
+(assert (= x33 (+ (* B33 53) (* A33 27))))
+(assert (= y33 (+ (* B33 16) (* A33 62))))
+
+(minimize Tokens33)
+(check-sat)
+(get-value (Tokens33))
+(pop)
+    
+
+(push)
+(declare-const Tokens34 Int)
+(declare-const A34 Int)
+(declare-const B34 Int)
+(declare-const x34 Int)
+(declare-const y34 Int)
+
+(assert (and (= x34 10000000004993) (= y34 10000000017486)))
+(assert (= Tokens34 (+ B34 (* 3 A34))))
+(assert (= x34 (+ (* B34 22) (* A34 21))))
+(assert (= y34 (+ (* B34 13) (* A34 46))))
+
+(minimize Tokens34)
+(check-sat)
+(get-value (Tokens34))
+(pop)
+    
+
+(push)
+(declare-const Tokens35 Int)
+(declare-const A35 Int)
+(declare-const B35 Int)
+(declare-const x35 Int)
+(declare-const y35 Int)
+
+(assert (and (= x35 10000000018084) (= y35 10000000011630)))
+(assert (= Tokens35 (+ B35 (* 3 A35))))
+(assert (= x35 (+ (* B35 32) (* A35 13))))
+(assert (= y35 (+ (* B35 15) (* A35 45))))
+
+(minimize Tokens35)
+(check-sat)
+(get-value (Tokens35))
+(pop)
+    
+
+(push)
+(declare-const Tokens36 Int)
+(declare-const A36 Int)
+(declare-const B36 Int)
+(declare-const x36 Int)
+(declare-const y36 Int)
+
+(assert (and (= x36 10000000010467) (= y36 10000000005197)))
+(assert (= Tokens36 (+ B36 (* 3 A36))))
+(assert (= x36 (+ (* B36 49) (* A36 39))))
+(assert (= y36 (+ (* B36 21) (* A36 65))))
+
+(minimize Tokens36)
+(check-sat)
+(get-value (Tokens36))
+(pop)
+    
+
+(push)
+(declare-const Tokens37 Int)
+(declare-const A37 Int)
+(declare-const B37 Int)
+(declare-const x37 Int)
+(declare-const y37 Int)
+
+(assert (and (= x37 10000000005530) (= y37 10000000003675)))
+(assert (= Tokens37 (+ B37 (* 3 A37))))
+(assert (= x37 (+ (* B37 87) (* A37 40))))
+(assert (= y37 (+ (* B37 13) (* A37 45))))
+
+(minimize Tokens37)
+(check-sat)
+(get-value (Tokens37))
+(pop)
+    
+
+(push)
+(declare-const Tokens38 Int)
+(declare-const A38 Int)
+(declare-const B38 Int)
+(declare-const x38 Int)
+(declare-const y38 Int)
+
+(assert (and (= x38 10000000004698) (= y38 10000000006190)))
+(assert (= Tokens38 (+ B38 (* 3 A38))))
+(assert (= x38 (+ (* B38 23) (* A38 42))))
+(assert (= y38 (+ (* B38 11) (* A38 70))))
+
+(minimize Tokens38)
+(check-sat)
+(get-value (Tokens38))
+(pop)
+    
+
+(push)
+(declare-const Tokens39 Int)
+(declare-const A39 Int)
+(declare-const B39 Int)
+(declare-const x39 Int)
+(declare-const y39 Int)
+
+(assert (and (= x39 10000000009351) (= y39 10000000009718)))
+(assert (= Tokens39 (+ B39 (* 3 A39))))
+(assert (= x39 (+ (* B39 38) (* A39 11))))
+(assert (= y39 (+ (* B39 18) (* A39 38))))
+
+(minimize Tokens39)
+(check-sat)
+(get-value (Tokens39))
+(pop)
+    
+
+(push)
+(declare-const Tokens40 Int)
+(declare-const A40 Int)
+(declare-const B40 Int)
+(declare-const x40 Int)
+(declare-const y40 Int)
+
+(assert (and (= x40 10000000003440) (= y40 10000000001675)))
+(assert (= Tokens40 (+ B40 (* 3 A40))))
+(assert (= x40 (+ (* B40 92) (* A40 22))))
+(assert (= y40 (+ (* B40 37) (* A40 38))))
+
+(minimize Tokens40)
+(check-sat)
+(get-value (Tokens40))
+(pop)
+    
+
+(push)
+(declare-const Tokens41 Int)
+(declare-const A41 Int)
+(declare-const B41 Int)
+(declare-const x41 Int)
+(declare-const y41 Int)
+
+(assert (and (= x41 10000000017660) (= y41 10000000014660)))
+(assert (= Tokens41 (+ B41 (* 3 A41))))
+(assert (= x41 (+ (* B41 24) (* A41 37))))
+(assert (= y41 (+ (* B41 34) (* A41 17))))
+
+(minimize Tokens41)
+(check-sat)
+(get-value (Tokens41))
+(pop)
+    
+
+(push)
+(declare-const Tokens42 Int)
+(declare-const A42 Int)
+(declare-const B42 Int)
+(declare-const x42 Int)
+(declare-const y42 Int)
+
+(assert (and (= x42 10000000007592) (= y42 10000000006578)))
+(assert (= Tokens42 (+ B42 (* 3 A42))))
+(assert (= x42 (+ (* B42 66) (* A42 62))))
+(assert (= y42 (+ (* B42 30) (* A42 92))))
+
+(minimize Tokens42)
+(check-sat)
+(get-value (Tokens42))
+(pop)
+    
+
+(push)
+(declare-const Tokens43 Int)
+(declare-const A43 Int)
+(declare-const B43 Int)
+(declare-const x43 Int)
+(declare-const y43 Int)
+
+(assert (and (= x43 10000000013492) (= y43 10000000007688)))
+(assert (= Tokens43 (+ B43 (* 3 A43))))
+(assert (= x43 (+ (* B43 68) (* A43 25))))
+(assert (= y43 (+ (* B43 18) (* A43 66))))
+
+(minimize Tokens43)
+(check-sat)
+(get-value (Tokens43))
+(pop)
+    
+
+(push)
+(declare-const Tokens44 Int)
+(declare-const A44 Int)
+(declare-const B44 Int)
+(declare-const x44 Int)
+(declare-const y44 Int)
+
+(assert (and (= x44 10000000003515) (= y44 10000000002014)))
+(assert (= Tokens44 (+ B44 (* 3 A44))))
+(assert (= x44 (+ (* B44 30) (* A44 65))))
+(assert (= y44 (+ (* B44 45) (* A44 31))))
+
+(minimize Tokens44)
+(check-sat)
+(get-value (Tokens44))
+(pop)
+    
+
+(push)
+(declare-const Tokens45 Int)
+(declare-const A45 Int)
+(declare-const B45 Int)
+(declare-const x45 Int)
+(declare-const y45 Int)
+
+(assert (and (= x45 10000000001929) (= y45 10000000005838)))
+(assert (= Tokens45 (+ B45 (* 3 A45))))
+(assert (= x45 (+ (* B45 92) (* A45 11))))
+(assert (= y45 (+ (* B45 49) (* A45 70))))
+
+(minimize Tokens45)
+(check-sat)
+(get-value (Tokens45))
+(pop)
+    
+
+(push)
+(declare-const Tokens46 Int)
+(declare-const A46 Int)
+(declare-const B46 Int)
+(declare-const x46 Int)
+(declare-const y46 Int)
+
+(assert (and (= x46 10000000005314) (= y46 10000000011264)))
+(assert (= Tokens46 (+ B46 (* 3 A46))))
+(assert (= x46 (+ (* B46 11) (* A46 73))))
+(assert (= y46 (+ (* B46 28) (* A46 40))))
+
+(minimize Tokens46)
+(check-sat)
+(get-value (Tokens46))
+(pop)
+    
+
+(push)
+(declare-const Tokens47 Int)
+(declare-const A47 Int)
+(declare-const B47 Int)
+(declare-const x47 Int)
+(declare-const y47 Int)
+
+(assert (and (= x47 10000000005948) (= y47 10000000004393)))
+(assert (= Tokens47 (+ B47 (* 3 A47))))
+(assert (= x47 (+ (* B47 84) (* A47 16))))
+(assert (= y47 (+ (* B47 39) (* A47 89))))
+
+(minimize Tokens47)
+(check-sat)
+(get-value (Tokens47))
+(pop)
+    
+
+(push)
+(declare-const Tokens48 Int)
+(declare-const A48 Int)
+(declare-const B48 Int)
+(declare-const x48 Int)
+(declare-const y48 Int)
+
+(assert (and (= x48 10000000007031) (= y48 10000000001727)))
+(assert (= Tokens48 (+ B48 (* 3 A48))))
+(assert (= x48 (+ (* B48 15) (* A48 94))))
+(assert (= y48 (+ (* B48 79) (* A48 18))))
+
+(minimize Tokens48)
+(check-sat)
+(get-value (Tokens48))
+(pop)
+    
+
+(push)
+(declare-const Tokens49 Int)
+(declare-const A49 Int)
+(declare-const B49 Int)
+(declare-const x49 Int)
+(declare-const y49 Int)
+
+(assert (and (= x49 10000000006685) (= y49 10000000007537)))
+(assert (= Tokens49 (+ B49 (* 3 A49))))
+(assert (= x49 (+ (* B49 19) (* A49 92))))
+(assert (= y49 (+ (* B49 89) (* A49 21))))
+
+(minimize Tokens49)
+(check-sat)
+(get-value (Tokens49))
+(pop)
+    
+
+(push)
+(declare-const Tokens50 Int)
+(declare-const A50 Int)
+(declare-const B50 Int)
+(declare-const x50 Int)
+(declare-const y50 Int)
+
+(assert (and (= x50 10000000006083) (= y50 10000000019058)))
+(assert (= Tokens50 (+ B50 (* 3 A50))))
+(assert (= x50 (+ (* B50 15) (* A50 72))))
+(assert (= y50 (+ (* B50 54) (* A50 12))))
+
+(minimize Tokens50)
+(check-sat)
+(get-value (Tokens50))
+(pop)
+    
+
+(push)
+(declare-const Tokens51 Int)
+(declare-const A51 Int)
+(declare-const B51 Int)
+(declare-const x51 Int)
+(declare-const y51 Int)
+
+(assert (and (= x51 10000000019556) (= y51 10000000006776)))
+(assert (= Tokens51 (+ B51 (* 3 A51))))
+(assert (= x51 (+ (* B51 24) (* A51 60))))
+(assert (= y51 (+ (* B51 57) (* A51 28))))
+
+(minimize Tokens51)
+(check-sat)
+(get-value (Tokens51))
+(pop)
+    
+
+(push)
+(declare-const Tokens52 Int)
+(declare-const A52 Int)
+(declare-const B52 Int)
+(declare-const x52 Int)
+(declare-const y52 Int)
+
+(assert (and (= x52 10000000008108) (= y52 10000000006912)))
+(assert (= Tokens52 (+ B52 (* 3 A52))))
+(assert (= x52 (+ (* B52 73) (* A52 68))))
+(assert (= y52 (+ (* B52 18) (* A52 85))))
+
+(minimize Tokens52)
+(check-sat)
+(get-value (Tokens52))
+(pop)
+    
+
+(push)
+(declare-const Tokens53 Int)
+(declare-const A53 Int)
+(declare-const B53 Int)
+(declare-const x53 Int)
+(declare-const y53 Int)
+
+(assert (and (= x53 10000000009605) (= y53 10000000006960)))
+(assert (= Tokens53 (+ B53 (* 3 A53))))
+(assert (= x53 (+ (* B53 24) (* A53 95))))
+(assert (= y53 (+ (* B53 83) (* A53 40))))
+
+(minimize Tokens53)
+(check-sat)
+(get-value (Tokens53))
+(pop)
+    
+
+(push)
+(declare-const Tokens54 Int)
+(declare-const A54 Int)
+(declare-const B54 Int)
+(declare-const x54 Int)
+(declare-const y54 Int)
+
+(assert (and (= x54 10000000004856) (= y54 10000000004838)))
+(assert (= Tokens54 (+ B54 (* 3 A54))))
+(assert (= x54 (+ (* B54 78) (* A54 43))))
+(assert (= y54 (+ (* B54 15) (* A54 97))))
+
+(minimize Tokens54)
+(check-sat)
+(get-value (Tokens54))
+(pop)
+    
+
+(push)
+(declare-const Tokens55 Int)
+(declare-const A55 Int)
+(declare-const B55 Int)
+(declare-const x55 Int)
+(declare-const y55 Int)
+
+(assert (and (= x55 10000000007401) (= y55 10000000001709)))
+(assert (= Tokens55 (+ B55 (* 3 A55))))
+(assert (= x55 (+ (* B55 81) (* A55 24))))
+(assert (= y55 (+ (* B55 13) (* A55 69))))
+
+(minimize Tokens55)
+(check-sat)
+(get-value (Tokens55))
+(pop)
+    
+
+(push)
+(declare-const Tokens56 Int)
+(declare-const A56 Int)
+(declare-const B56 Int)
+(declare-const x56 Int)
+(declare-const y56 Int)
+
+(assert (and (= x56 10000000006984) (= y56 10000000001650)))
+(assert (= Tokens56 (+ B56 (* 3 A56))))
+(assert (= x56 (+ (* B56 55) (* A56 24))))
+(assert (= y56 (+ (* B56 13) (* A56 66))))
+
+(minimize Tokens56)
+(check-sat)
+(get-value (Tokens56))
+(pop)
+    
+
+(push)
+(declare-const Tokens57 Int)
+(declare-const A57 Int)
+(declare-const B57 Int)
+(declare-const x57 Int)
+(declare-const y57 Int)
+
+(assert (and (= x57 10000000016978) (= y57 10000000004598)))
+(assert (= Tokens57 (+ B57 (* 3 A57))))
+(assert (= x57 (+ (* B57 23) (* A57 58))))
+(assert (= y57 (+ (* B57 63) (* A57 24))))
+
+(minimize Tokens57)
+(check-sat)
+(get-value (Tokens57))
+(pop)
+    
+
+(push)
+(declare-const Tokens58 Int)
+(declare-const A58 Int)
+(declare-const B58 Int)
+(declare-const x58 Int)
+(declare-const y58 Int)
+
+(assert (and (= x58 10000000003711) (= y58 10000000003449)))
+(assert (= Tokens58 (+ B58 (* 3 A58))))
+(assert (= x58 (+ (* B58 18) (* A58 75))))
+(assert (= y58 (+ (* B58 40) (* A58 37))))
+
+(minimize Tokens58)
+(check-sat)
+(get-value (Tokens58))
+(pop)
+    
+
+(push)
+(declare-const Tokens59 Int)
+(declare-const A59 Int)
+(declare-const B59 Int)
+(declare-const x59 Int)
+(declare-const y59 Int)
+
+(assert (and (= x59 10000000000603) (= y59 10000000014281)))
+(assert (= Tokens59 (+ B59 (* 3 A59))))
+(assert (= x59 (+ (* B59 22) (* A59 13))))
+(assert (= y59 (+ (* B59 14) (* A59 43))))
+
+(minimize Tokens59)
+(check-sat)
+(get-value (Tokens59))
+(pop)
+    
+
+(push)
+(declare-const Tokens60 Int)
+(declare-const A60 Int)
+(declare-const B60 Int)
+(declare-const x60 Int)
+(declare-const y60 Int)
+
+(assert (and (= x60 10000000009032) (= y60 10000000008104)))
+(assert (= Tokens60 (+ B60 (* 3 A60))))
+(assert (= x60 (+ (* B60 94) (* A60 27))))
+(assert (= y60 (+ (* B60 32) (* A60 99))))
+
+(minimize Tokens60)
+(check-sat)
+(get-value (Tokens60))
+(pop)
+    
+
+(push)
+(declare-const Tokens61 Int)
+(declare-const A61 Int)
+(declare-const B61 Int)
+(declare-const x61 Int)
+(declare-const y61 Int)
+
+(assert (and (= x61 10000000007080) (= y61 10000000010559)))
+(assert (= Tokens61 (+ B61 (* 3 A61))))
+(assert (= x61 (+ (* B61 31) (* A61 86))))
+(assert (= y61 (+ (* B61 90) (* A61 37))))
+
+(minimize Tokens61)
+(check-sat)
+(get-value (Tokens61))
+(pop)
+    
+
+(push)
+(declare-const Tokens62 Int)
+(declare-const A62 Int)
+(declare-const B62 Int)
+(declare-const x62 Int)
+(declare-const y62 Int)
+
+(assert (and (= x62 10000000004901) (= y62 10000000004784)))
+(assert (= Tokens62 (+ B62 (* 3 A62))))
+(assert (= x62 (+ (* B62 73) (* A62 85))))
+(assert (= y62 (+ (* B62 85) (* A62 28))))
+
+(minimize Tokens62)
+(check-sat)
+(get-value (Tokens62))
+(pop)
+    
+
+(push)
+(declare-const Tokens63 Int)
+(declare-const A63 Int)
+(declare-const B63 Int)
+(declare-const x63 Int)
+(declare-const y63 Int)
+
+(assert (and (= x63 10000000008621) (= y63 10000000003143)))
+(assert (= Tokens63 (+ B63 (* 3 A63))))
+(assert (= x63 (+ (* B63 23) (* A63 88))))
+(assert (= y63 (+ (* B63 92) (* A63 15))))
+
+(minimize Tokens63)
+(check-sat)
+(get-value (Tokens63))
+(pop)
+    
+
+(push)
+(declare-const Tokens64 Int)
+(declare-const A64 Int)
+(declare-const B64 Int)
+(declare-const x64 Int)
+(declare-const y64 Int)
+
+(assert (and (= x64 10000000010350) (= y64 10000000006840)))
+(assert (= Tokens64 (+ B64 (* 3 A64))))
+(assert (= x64 (+ (* B64 22) (* A64 93))))
+(assert (= y64 (+ (* B64 33) (* A64 43))))
+
+(minimize Tokens64)
+(check-sat)
+(get-value (Tokens64))
+(pop)
+    
+
+(push)
+(declare-const Tokens65 Int)
+(declare-const A65 Int)
+(declare-const B65 Int)
+(declare-const x65 Int)
+(declare-const y65 Int)
+
+(assert (and (= x65 10000000007697) (= y65 10000000000617)))
+(assert (= Tokens65 (+ B65 (* 3 A65))))
+(assert (= x65 (+ (* B65 49) (* A65 21))))
+(assert (= y65 (+ (* B65 13) (* A65 63))))
+
+(minimize Tokens65)
+(check-sat)
+(get-value (Tokens65))
+(pop)
+    
+
+(push)
+(declare-const Tokens66 Int)
+(declare-const A66 Int)
+(declare-const B66 Int)
+(declare-const x66 Int)
+(declare-const y66 Int)
+
+(assert (and (= x66 10000000002478) (= y66 10000000005327)))
+(assert (= Tokens66 (+ B66 (* 3 A66))))
+(assert (= x66 (+ (* B66 21) (* A66 42))))
+(assert (= y66 (+ (* B66 95) (* A66 31))))
+
+(minimize Tokens66)
+(check-sat)
+(get-value (Tokens66))
+(pop)
+    
+
+(push)
+(declare-const Tokens67 Int)
+(declare-const A67 Int)
+(declare-const B67 Int)
+(declare-const x67 Int)
+(declare-const y67 Int)
+
+(assert (and (= x67 10000000005735) (= y67 10000000003164)))
+(assert (= Tokens67 (+ B67 (* 3 A67))))
+(assert (= x67 (+ (* B67 28) (* A67 85))))
+(assert (= y67 (+ (* B67 49) (* A67 14))))
+
+(minimize Tokens67)
+(check-sat)
+(get-value (Tokens67))
+(pop)
+    
+
+(push)
+(declare-const Tokens68 Int)
+(declare-const A68 Int)
+(declare-const B68 Int)
+(declare-const x68 Int)
+(declare-const y68 Int)
+
+(assert (and (= x68 10000000014612) (= y68 10000000011632)))
+(assert (= Tokens68 (+ B68 (* 3 A68))))
+(assert (= x68 (+ (* B68 54) (* A68 24))))
+(assert (= y68 (+ (* B68 26) (* A68 57))))
+
+(minimize Tokens68)
+(check-sat)
+(get-value (Tokens68))
+(pop)
+    
+
+(push)
+(declare-const Tokens69 Int)
+(declare-const A69 Int)
+(declare-const B69 Int)
+(declare-const x69 Int)
+(declare-const y69 Int)
+
+(assert (and (= x69 10000000004445) (= y69 10000000002338)))
+(assert (= Tokens69 (+ B69 (* 3 A69))))
+(assert (= x69 (+ (* B69 74) (* A69 43))))
+(assert (= y69 (+ (* B69 33) (* A69 70))))
+
+(minimize Tokens69)
+(check-sat)
+(get-value (Tokens69))
+(pop)
+    
+
+(push)
+(declare-const Tokens70 Int)
+(declare-const A70 Int)
+(declare-const B70 Int)
+(declare-const x70 Int)
+(declare-const y70 Int)
+
+(assert (and (= x70 10000000011468) (= y70 10000000004144)))
+(assert (= Tokens70 (+ B70 (* 3 A70))))
+(assert (= x70 (+ (* B70 72) (* A70 15))))
+(assert (= y70 (+ (* B70 15) (* A70 76))))
+
+(minimize Tokens70)
+(check-sat)
+(get-value (Tokens70))
+(pop)
+    
+
+(push)
+(declare-const Tokens71 Int)
+(declare-const A71 Int)
+(declare-const B71 Int)
+(declare-const x71 Int)
+(declare-const y71 Int)
+
+(assert (and (= x71 10000000015776) (= y71 10000000002736)))
+(assert (= Tokens71 (+ B71 (* 3 A71))))
+(assert (= x71 (+ (* B71 44) (* A71 16))))
+(assert (= y71 (+ (* B71 18) (* A71 44))))
+
+(minimize Tokens71)
+(check-sat)
+(get-value (Tokens71))
+(pop)
+    
+
+(push)
+(declare-const Tokens72 Int)
+(declare-const A72 Int)
+(declare-const B72 Int)
+(declare-const x72 Int)
+(declare-const y72 Int)
+
+(assert (and (= x72 10000000002772) (= y72 10000000001424)))
+(assert (= Tokens72 (+ B72 (* 3 A72))))
+(assert (= x72 (+ (* B72 11) (* A72 64))))
+(assert (= y72 (+ (* B72 32) (* A72 26))))
+
+(minimize Tokens72)
+(check-sat)
+(get-value (Tokens72))
+(pop)
+    
+
+(push)
+(declare-const Tokens73 Int)
+(declare-const A73 Int)
+(declare-const B73 Int)
+(declare-const x73 Int)
+(declare-const y73 Int)
+
+(assert (and (= x73 10000000005846) (= y73 10000000001916)))
+(assert (= Tokens73 (+ B73 (* 3 A73))))
+(assert (= x73 (+ (* B73 95) (* A73 28))))
+(assert (= y73 (+ (* B73 14) (* A73 92))))
+
+(minimize Tokens73)
+(check-sat)
+(get-value (Tokens73))
+(pop)
+    
+
+(push)
+(declare-const Tokens74 Int)
+(declare-const A74 Int)
+(declare-const B74 Int)
+(declare-const x74 Int)
+(declare-const y74 Int)
+
+(assert (and (= x74 10000000013196) (= y74 10000000019153)))
+(assert (= Tokens74 (+ B74 (* 3 A74))))
+(assert (= x74 (+ (* B74 58) (* A74 15))))
+(assert (= y74 (+ (* B74 19) (* A74 70))))
+
+(minimize Tokens74)
+(check-sat)
+(get-value (Tokens74))
+(pop)
+    
+
+(push)
+(declare-const Tokens75 Int)
+(declare-const A75 Int)
+(declare-const B75 Int)
+(declare-const x75 Int)
+(declare-const y75 Int)
+
+(assert (and (= x75 10000000014043) (= y75 10000000002532)))
+(assert (= Tokens75 (+ B75 (* 3 A75))))
+(assert (= x75 (+ (* B75 68) (* A75 15))))
+(assert (= y75 (+ (* B75 24) (* A75 44))))
+
+(minimize Tokens75)
+(check-sat)
+(get-value (Tokens75))
+(pop)
+    
+
+(push)
+(declare-const Tokens76 Int)
+(declare-const A76 Int)
+(declare-const B76 Int)
+(declare-const x76 Int)
+(declare-const y76 Int)
+
+(assert (and (= x76 10000000007406) (= y76 10000000018427)))
+(assert (= Tokens76 (+ B76 (* 3 A76))))
+(assert (= x76 (+ (* B76 58) (* A76 12))))
+(assert (= y76 (+ (* B76 35) (* A76 29))))
+
+(minimize Tokens76)
+(check-sat)
+(get-value (Tokens76))
+(pop)
+    
+
+(push)
+(declare-const Tokens77 Int)
+(declare-const A77 Int)
+(declare-const B77 Int)
+(declare-const x77 Int)
+(declare-const y77 Int)
+
+(assert (and (= x77 10000000004935) (= y77 10000000006877)))
+(assert (= Tokens77 (+ B77 (* 3 A77))))
+(assert (= x77 (+ (* B77 21) (* A77 63))))
+(assert (= y77 (+ (* B77 91) (* A77 39))))
+
+(minimize Tokens77)
+(check-sat)
+(get-value (Tokens77))
+(pop)
+    
+
+(push)
+(declare-const Tokens78 Int)
+(declare-const A78 Int)
+(declare-const B78 Int)
+(declare-const x78 Int)
+(declare-const y78 Int)
+
+(assert (and (= x78 10000000001510) (= y78 10000000001394)))
+(assert (= Tokens78 (+ B78 (* 3 A78))))
+(assert (= x78 (+ (* B78 30) (* A78 55))))
+(assert (= y78 (+ (* B78 91) (* A78 22))))
+
+(minimize Tokens78)
+(check-sat)
+(get-value (Tokens78))
+(pop)
+    
+
+(push)
+(declare-const Tokens79 Int)
+(declare-const A79 Int)
+(declare-const B79 Int)
+(declare-const x79 Int)
+(declare-const y79 Int)
+
+(assert (and (= x79 10000000014058) (= y79 10000000012241)))
+(assert (= Tokens79 (+ B79 (* 3 A79))))
+(assert (= x79 (+ (* B79 36) (* A79 38))))
+(assert (= y79 (+ (* B79 64) (* A79 15))))
+
+(minimize Tokens79)
+(check-sat)
+(get-value (Tokens79))
+(pop)
+    
+
+(push)
+(declare-const Tokens80 Int)
+(declare-const A80 Int)
+(declare-const B80 Int)
+(declare-const x80 Int)
+(declare-const y80 Int)
+
+(assert (and (= x80 10000000003629) (= y80 10000000006298)))
+(assert (= Tokens80 (+ B80 (* 3 A80))))
+(assert (= x80 (+ (* B80 31) (* A80 27))))
+(assert (= y80 (+ (* B80 12) (* A80 67))))
+
+(minimize Tokens80)
+(check-sat)
+(get-value (Tokens80))
+(pop)
+    
+
+(push)
+(declare-const Tokens81 Int)
+(declare-const A81 Int)
+(declare-const B81 Int)
+(declare-const x81 Int)
+(declare-const y81 Int)
+
+(assert (and (= x81 10000000007471) (= y81 10000000006865)))
+(assert (= Tokens81 (+ B81 (* 3 A81))))
+(assert (= x81 (+ (* B81 87) (* A81 47))))
+(assert (= y81 (+ (* B81 43) (* A81 77))))
+
+(minimize Tokens81)
+(check-sat)
+(get-value (Tokens81))
+(pop)
+    
+
+(push)
+(declare-const Tokens82 Int)
+(declare-const A82 Int)
+(declare-const B82 Int)
+(declare-const x82 Int)
+(declare-const y82 Int)
+
+(assert (and (= x82 10000000005964) (= y82 10000000006111)))
+(assert (= Tokens82 (+ B82 (* 3 A82))))
+(assert (= x82 (+ (* B82 32) (* A82 54))))
+(assert (= y82 (+ (* B82 95) (* A82 42))))
+
+(minimize Tokens82)
+(check-sat)
+(get-value (Tokens82))
+(pop)
+    
+
+(push)
+(declare-const Tokens83 Int)
+(declare-const A83 Int)
+(declare-const B83 Int)
+(declare-const x83 Int)
+(declare-const y83 Int)
+
+(assert (and (= x83 10000000004562) (= y83 10000000007033)))
+(assert (= Tokens83 (+ B83 (* 3 A83))))
+(assert (= x83 (+ (* B83 50) (* A83 19))))
+(assert (= y83 (+ (* B83 49) (* A83 72))))
+
+(minimize Tokens83)
+(check-sat)
+(get-value (Tokens83))
+(pop)
+    
+
+(push)
+(declare-const Tokens84 Int)
+(declare-const A84 Int)
+(declare-const B84 Int)
+(declare-const x84 Int)
+(declare-const y84 Int)
+
+(assert (and (= x84 10000000005588) (= y84 10000000017090)))
+(assert (= Tokens84 (+ B84 (* 3 A84))))
+(assert (= x84 (+ (* B84 15) (* A84 72))))
+(assert (= y84 (+ (* B84 29) (* A84 46))))
+
+(minimize Tokens84)
+(check-sat)
+(get-value (Tokens84))
+(pop)
+    
+
+(push)
+(declare-const Tokens85 Int)
+(declare-const A85 Int)
+(declare-const B85 Int)
+(declare-const x85 Int)
+(declare-const y85 Int)
+
+(assert (and (= x85 10000000007077) (= y85 10000000010638)))
+(assert (= Tokens85 (+ B85 (* 3 A85))))
+(assert (= x85 (+ (* B85 22) (* A85 71))))
+(assert (= y85 (+ (* B85 74) (* A85 48))))
+
+(minimize Tokens85)
+(check-sat)
+(get-value (Tokens85))
+(pop)
+    
+
+(push)
+(declare-const Tokens86 Int)
+(declare-const A86 Int)
+(declare-const B86 Int)
+(declare-const x86 Int)
+(declare-const y86 Int)
+
+(assert (and (= x86 10000000014535) (= y86 10000000008360)))
+(assert (= Tokens86 (+ B86 (* 3 A86))))
+(assert (= x86 (+ (* B86 78) (* A86 75))))
+(assert (= y86 (+ (* B86 11) (* A86 77))))
+
+(minimize Tokens86)
+(check-sat)
+(get-value (Tokens86))
+(pop)
+    
+
+(push)
+(declare-const Tokens87 Int)
+(declare-const A87 Int)
+(declare-const B87 Int)
+(declare-const x87 Int)
+(declare-const y87 Int)
+
+(assert (and (= x87 10000000000784) (= y87 10000000009719)))
+(assert (= Tokens87 (+ B87 (* 3 A87))))
+(assert (= x87 (+ (* B87 13) (* A87 75))))
+(assert (= y87 (+ (* B87 54) (* A87 11))))
+
+(minimize Tokens87)
+(check-sat)
+(get-value (Tokens87))
+(pop)
+    
+
+(push)
+(declare-const Tokens88 Int)
+(declare-const A88 Int)
+(declare-const B88 Int)
+(declare-const x88 Int)
+(declare-const y88 Int)
+
+(assert (and (= x88 10000000002987) (= y88 10000000013309)))
+(assert (= Tokens88 (+ B88 (* 3 A88))))
+(assert (= x88 (+ (* B88 57) (* A88 11))))
+(assert (= y88 (+ (* B88 19) (* A88 69))))
+
+(minimize Tokens88)
+(check-sat)
+(get-value (Tokens88))
+(pop)
+    
+
+(push)
+(declare-const Tokens89 Int)
+(declare-const A89 Int)
+(declare-const B89 Int)
+(declare-const x89 Int)
+(declare-const y89 Int)
+
+(assert (and (= x89 10000000004127) (= y89 10000000006747)))
+(assert (= Tokens89 (+ B89 (* 3 A89))))
+(assert (= x89 (+ (* B89 22) (* A89 31))))
+(assert (= y89 (+ (* B89 69) (* A89 26))))
+
+(minimize Tokens89)
+(check-sat)
+(get-value (Tokens89))
+(pop)
+    
+
+(push)
+(declare-const Tokens90 Int)
+(declare-const A90 Int)
+(declare-const B90 Int)
+(declare-const x90 Int)
+(declare-const y90 Int)
+
+(assert (and (= x90 10000000014084) (= y90 10000000009074)))
+(assert (= Tokens90 (+ B90 (* 3 A90))))
+(assert (= x90 (+ (* B90 30) (* A90 16))))
+(assert (= y90 (+ (* B90 11) (* A90 48))))
+
+(minimize Tokens90)
+(check-sat)
+(get-value (Tokens90))
+(pop)
+    
+
+(push)
+(declare-const Tokens91 Int)
+(declare-const A91 Int)
+(declare-const B91 Int)
+(declare-const x91 Int)
+(declare-const y91 Int)
+
+(assert (and (= x91 10000000011326) (= y91 10000000014277)))
+(assert (= Tokens91 (+ B91 (* 3 A91))))
+(assert (= x91 (+ (* B91 26) (* A91 30))))
+(assert (= y91 (+ (* B91 52) (* A91 13))))
+
+(minimize Tokens91)
+(check-sat)
+(get-value (Tokens91))
+(pop)
+    
+
+(push)
+(declare-const Tokens92 Int)
+(declare-const A92 Int)
+(declare-const B92 Int)
+(declare-const x92 Int)
+(declare-const y92 Int)
+
+(assert (and (= x92 10000000019517) (= y92 10000000010193)))
+(assert (= Tokens92 (+ B92 (* 3 A92))))
+(assert (= x92 (+ (* B92 29) (* A92 26))))
+(assert (= y92 (+ (* B92 53) (* A92 14))))
+
+(minimize Tokens92)
+(check-sat)
+(get-value (Tokens92))
+(pop)
+    
+
+(push)
+(declare-const Tokens93 Int)
+(declare-const A93 Int)
+(declare-const B93 Int)
+(declare-const x93 Int)
+(declare-const y93 Int)
+
+(assert (and (= x93 10000000001816) (= y93 10000000007528)))
+(assert (= Tokens93 (+ B93 (* 3 A93))))
+(assert (= x93 (+ (* B93 19) (* A93 12))))
+(assert (= y93 (+ (* B93 21) (* A93 76))))
+
+(minimize Tokens93)
+(check-sat)
+(get-value (Tokens93))
+(pop)
+    
+
+(push)
+(declare-const Tokens94 Int)
+(declare-const A94 Int)
+(declare-const B94 Int)
+(declare-const x94 Int)
+(declare-const y94 Int)
+
+(assert (and (= x94 10000000014390) (= y94 10000000009139)))
+(assert (= Tokens94 (+ B94 (* 3 A94))))
+(assert (= x94 (+ (* B94 81) (* A94 12))))
+(assert (= y94 (+ (* B94 23) (* A94 57))))
+
+(minimize Tokens94)
+(check-sat)
+(get-value (Tokens94))
+(pop)
+    
+
+(push)
+(declare-const Tokens95 Int)
+(declare-const A95 Int)
+(declare-const B95 Int)
+(declare-const x95 Int)
+(declare-const y95 Int)
+
+(assert (and (= x95 10000000003759) (= y95 10000000009420)))
+(assert (= Tokens95 (+ B95 (* 3 A95))))
+(assert (= x95 (+ (* B95 28) (* A95 77))))
+(assert (= y95 (+ (* B95 90) (* A95 70))))
+
+(minimize Tokens95)
+(check-sat)
+(get-value (Tokens95))
+(pop)
+    
+
+(push)
+(declare-const Tokens96 Int)
+(declare-const A96 Int)
+(declare-const B96 Int)
+(declare-const x96 Int)
+(declare-const y96 Int)
+
+(assert (and (= x96 10000000002176) (= y96 10000000012911)))
+(assert (= Tokens96 (+ B96 (* 3 A96))))
+(assert (= x96 (+ (* B96 68) (* A96 15))))
+(assert (= y96 (+ (* B96 23) (* A96 58))))
+
+(minimize Tokens96)
+(check-sat)
+(get-value (Tokens96))
+(pop)
+    
+
+(push)
+(declare-const Tokens97 Int)
+(declare-const A97 Int)
+(declare-const B97 Int)
+(declare-const x97 Int)
+(declare-const y97 Int)
+
+(assert (and (= x97 10000000014732) (= y97 10000000015887)))
+(assert (= Tokens97 (+ B97 (* 3 A97))))
+(assert (= x97 (+ (* B97 45) (* A97 24))))
+(assert (= y97 (+ (* B97 11) (* A97 39))))
+
+(minimize Tokens97)
+(check-sat)
+(get-value (Tokens97))
+(pop)
+    
+
+(push)
+(declare-const Tokens98 Int)
+(declare-const A98 Int)
+(declare-const B98 Int)
+(declare-const x98 Int)
+(declare-const y98 Int)
+
+(assert (and (= x98 10000000017411) (= y98 10000000012972)))
+(assert (= Tokens98 (+ B98 (* 3 A98))))
+(assert (= x98 (+ (* B98 75) (* A98 13))))
+(assert (= y98 (+ (* B98 16) (* A98 51))))
+
+(minimize Tokens98)
+(check-sat)
+(get-value (Tokens98))
+(pop)
+    
+
+(push)
+(declare-const Tokens99 Int)
+(declare-const A99 Int)
+(declare-const B99 Int)
+(declare-const x99 Int)
+(declare-const y99 Int)
+
+(assert (and (= x99 10000000001940) (= y99 10000000007056)))
+(assert (= Tokens99 (+ B99 (* 3 A99))))
+(assert (= x99 (+ (* B99 11) (* A99 80))))
+(assert (= y99 (+ (* B99 92) (* A99 96))))
+
+(minimize Tokens99)
+(check-sat)
+(get-value (Tokens99))
+(pop)
+    
+
+(push)
+(declare-const Tokens100 Int)
+(declare-const A100 Int)
+(declare-const B100 Int)
+(declare-const x100 Int)
+(declare-const y100 Int)
+
+(assert (and (= x100 10000000005084) (= y100 10000000009956)))
+(assert (= Tokens100 (+ B100 (* 3 A100))))
+(assert (= x100 (+ (* B100 38) (* A100 54))))
+(assert (= y100 (+ (* B100 17) (* A100 75))))
+
+(minimize Tokens100)
+(check-sat)
+(get-value (Tokens100))
+(pop)
+    
+
+(push)
+(declare-const Tokens101 Int)
+(declare-const A101 Int)
+(declare-const B101 Int)
+(declare-const x101 Int)
+(declare-const y101 Int)
+
+(assert (and (= x101 10000000002830) (= y101 10000000007482)))
+(assert (= Tokens101 (+ B101 (* 3 A101))))
+(assert (= x101 (+ (* B101 57) (* A101 23))))
+(assert (= y101 (+ (* B101 52) (* A101 90))))
+
+(minimize Tokens101)
+(check-sat)
+(get-value (Tokens101))
+(pop)
+    
+
+(push)
+(declare-const Tokens102 Int)
+(declare-const A102 Int)
+(declare-const B102 Int)
+(declare-const x102 Int)
+(declare-const y102 Int)
+
+(assert (and (= x102 10000000002548) (= y102 10000000001712)))
+(assert (= Tokens102 (+ B102 (* 3 A102))))
+(assert (= x102 (+ (* B102 31) (* A102 38))))
+(assert (= y102 (+ (* B102 53) (* A102 16))))
+
+(minimize Tokens102)
+(check-sat)
+(get-value (Tokens102))
+(pop)
+    
+
+(push)
+(declare-const Tokens103 Int)
+(declare-const A103 Int)
+(declare-const B103 Int)
+(declare-const x103 Int)
+(declare-const y103 Int)
+
+(assert (and (= x103 10000000003432) (= y103 10000000004092)))
+(assert (= Tokens103 (+ B103 (* 3 A103))))
+(assert (= x103 (+ (* B103 50) (* A103 53))))
+(assert (= y103 (+ (* B103 18) (* A103 84))))
+
+(minimize Tokens103)
+(check-sat)
+(get-value (Tokens103))
+(pop)
+    
+
+(push)
+(declare-const Tokens104 Int)
+(declare-const A104 Int)
+(declare-const B104 Int)
+(declare-const x104 Int)
+(declare-const y104 Int)
+
+(assert (and (= x104 10000000019017) (= y104 10000000005986)))
+(assert (= Tokens104 (+ B104 (* 3 A104))))
+(assert (= x104 (+ (* B104 63) (* A104 23))))
+(assert (= y104 (+ (* B104 14) (* A104 64))))
+
+(minimize Tokens104)
+(check-sat)
+(get-value (Tokens104))
+(pop)
+    
+
+(push)
+(declare-const Tokens105 Int)
+(declare-const A105 Int)
+(declare-const B105 Int)
+(declare-const x105 Int)
+(declare-const y105 Int)
+
+(assert (and (= x105 10000000004432) (= y105 10000000009275)))
+(assert (= Tokens105 (+ B105 (* 3 A105))))
+(assert (= x105 (+ (* B105 91) (* A105 41))))
+(assert (= y105 (+ (* B105 12) (* A105 95))))
+
+(minimize Tokens105)
+(check-sat)
+(get-value (Tokens105))
+(pop)
+    
+
+(push)
+(declare-const Tokens106 Int)
+(declare-const A106 Int)
+(declare-const B106 Int)
+(declare-const x106 Int)
+(declare-const y106 Int)
+
+(assert (and (= x106 10000000009024) (= y106 10000000007092)))
+(assert (= Tokens106 (+ B106 (* 3 A106))))
+(assert (= x106 (+ (* B106 85) (* A106 24))))
+(assert (= y106 (+ (* B106 39) (* A106 93))))
+
+(minimize Tokens106)
+(check-sat)
+(get-value (Tokens106))
+(pop)
+    
+
+(push)
+(declare-const Tokens107 Int)
+(declare-const A107 Int)
+(declare-const B107 Int)
+(declare-const x107 Int)
+(declare-const y107 Int)
+
+(assert (and (= x107 10000000003164) (= y107 10000000008348)))
+(assert (= Tokens107 (+ B107 (* 3 A107))))
+(assert (= x107 (+ (* B107 71) (* A107 26))))
+(assert (= y107 (+ (* B107 44) (* A107 98))))
+
+(minimize Tokens107)
+(check-sat)
+(get-value (Tokens107))
+(pop)
+    
+
+(push)
+(declare-const Tokens108 Int)
+(declare-const A108 Int)
+(declare-const B108 Int)
+(declare-const x108 Int)
+(declare-const y108 Int)
+
+(assert (and (= x108 10000000001218) (= y108 10000000015514)))
+(assert (= Tokens108 (+ B108 (* 3 A108))))
+(assert (= x108 (+ (* B108 19) (* A108 50))))
+(assert (= y108 (+ (* B108 41) (* A108 13))))
+
+(minimize Tokens108)
+(check-sat)
+(get-value (Tokens108))
+(pop)
+    
+
+(push)
+(declare-const Tokens109 Int)
+(declare-const A109 Int)
+(declare-const B109 Int)
+(declare-const x109 Int)
+(declare-const y109 Int)
+
+(assert (and (= x109 10000000012723) (= y109 10000000003878)))
+(assert (= Tokens109 (+ B109 (* 3 A109))))
+(assert (= x109 (+ (* B109 28) (* A109 49))))
+(assert (= y109 (+ (* B109 57) (* A109 28))))
+
+(minimize Tokens109)
+(check-sat)
+(get-value (Tokens109))
+(pop)
+    
+
+(push)
+(declare-const Tokens110 Int)
+(declare-const A110 Int)
+(declare-const B110 Int)
+(declare-const x110 Int)
+(declare-const y110 Int)
+
+(assert (and (= x110 10000000002377) (= y110 10000000003703)))
+(assert (= Tokens110 (+ B110 (* 3 A110))))
+(assert (= x110 (+ (* B110 33) (* A110 68))))
+(assert (= y110 (+ (* B110 84) (* A110 35))))
+
+(minimize Tokens110)
+(check-sat)
+(get-value (Tokens110))
+(pop)
+    
+
+(push)
+(declare-const Tokens111 Int)
+(declare-const A111 Int)
+(declare-const B111 Int)
+(declare-const x111 Int)
+(declare-const y111 Int)
+
+(assert (and (= x111 10000000001611) (= y111 10000000003371)))
+(assert (= Tokens111 (+ B111 (* 3 A111))))
+(assert (= x111 (+ (* B111 27) (* A111 26))))
+(assert (= y111 (+ (* B111 11) (* A111 86))))
+
+(minimize Tokens111)
+(check-sat)
+(get-value (Tokens111))
+(pop)
+    
+
+(push)
+(declare-const Tokens112 Int)
+(declare-const A112 Int)
+(declare-const B112 Int)
+(declare-const x112 Int)
+(declare-const y112 Int)
+
+(assert (and (= x112 10000000010880) (= y112 10000000012704)))
+(assert (= Tokens112 (+ B112 (* 3 A112))))
+(assert (= x112 (+ (* B112 51) (* A112 21))))
+(assert (= y112 (+ (* B112 18) (* A112 62))))
+
+(minimize Tokens112)
+(check-sat)
+(get-value (Tokens112))
+(pop)
+    
+
+(push)
+(declare-const Tokens113 Int)
+(declare-const A113 Int)
+(declare-const B113 Int)
+(declare-const x113 Int)
+(declare-const y113 Int)
+
+(assert (and (= x113 10000000004243) (= y113 10000000010969)))
+(assert (= Tokens113 (+ B113 (* 3 A113))))
+(assert (= x113 (+ (* B113 30) (* A113 59))))
+(assert (= y113 (+ (* B113 61) (* A113 18))))
+
+(minimize Tokens113)
+(check-sat)
+(get-value (Tokens113))
+(pop)
+    
+
+(push)
+(declare-const Tokens114 Int)
+(declare-const A114 Int)
+(declare-const B114 Int)
+(declare-const x114 Int)
+(declare-const y114 Int)
+
+(assert (and (= x114 10000000002316) (= y114 10000000007458)))
+(assert (= Tokens114 (+ B114 (* 3 A114))))
+(assert (= x114 (+ (* B114 52) (* A114 18))))
+(assert (= y114 (+ (* B114 19) (* A114 48))))
+
+(minimize Tokens114)
+(check-sat)
+(get-value (Tokens114))
+(pop)
+    
+
+(push)
+(declare-const Tokens115 Int)
+(declare-const A115 Int)
+(declare-const B115 Int)
+(declare-const x115 Int)
+(declare-const y115 Int)
+
+(assert (and (= x115 10000000000953) (= y115 10000000001140)))
+(assert (= Tokens115 (+ B115 (* 3 A115))))
+(assert (= x115 (+ (* B115 14) (* A115 79))))
+(assert (= y115 (+ (* B115 69) (* A115 66))))
+
+(minimize Tokens115)
+(check-sat)
+(get-value (Tokens115))
+(pop)
+    
+
+(push)
+(declare-const Tokens116 Int)
+(declare-const A116 Int)
+(declare-const B116 Int)
+(declare-const x116 Int)
+(declare-const y116 Int)
+
+(assert (and (= x116 10000000006017) (= y116 10000000010308)))
+(assert (= Tokens116 (+ B116 (* 3 A116))))
+(assert (= x116 (+ (* B116 84) (* A116 31))))
+(assert (= y116 (+ (* B116 51) (* A116 99))))
+
+(minimize Tokens116)
+(check-sat)
+(get-value (Tokens116))
+(pop)
+    
+
+(push)
+(declare-const Tokens117 Int)
+(declare-const A117 Int)
+(declare-const B117 Int)
+(declare-const x117 Int)
+(declare-const y117 Int)
+
+(assert (and (= x117 10000000003610) (= y117 10000000013569)))
+(assert (= Tokens117 (+ B117 (* 3 A117))))
+(assert (= x117 (+ (* B117 15) (* A117 50))))
+(assert (= y117 (+ (* B117 76) (* A117 13))))
+
+(minimize Tokens117)
+(check-sat)
+(get-value (Tokens117))
+(pop)
+    
+
+(push)
+(declare-const Tokens118 Int)
+(declare-const A118 Int)
+(declare-const B118 Int)
+(declare-const x118 Int)
+(declare-const y118 Int)
+
+(assert (and (= x118 10000000005266) (= y118 10000000003433)))
+(assert (= Tokens118 (+ B118 (* 3 A118))))
+(assert (= x118 (+ (* B118 58) (* A118 38))))
+(assert (= y118 (+ (* B118 11) (* A118 59))))
+
+(minimize Tokens118)
+(check-sat)
+(get-value (Tokens118))
+(pop)
+    
+
+(push)
+(declare-const Tokens119 Int)
+(declare-const A119 Int)
+(declare-const B119 Int)
+(declare-const x119 Int)
+(declare-const y119 Int)
+
+(assert (and (= x119 10000000011552) (= y119 10000000005288)))
+(assert (= Tokens119 (+ B119 (* 3 A119))))
+(assert (= x119 (+ (* B119 50) (* A119 18))))
+(assert (= y119 (+ (* B119 24) (* A119 60))))
+
+(minimize Tokens119)
+(check-sat)
+(get-value (Tokens119))
+(pop)
+    
+
+(push)
+(declare-const Tokens120 Int)
+(declare-const A120 Int)
+(declare-const B120 Int)
+(declare-const x120 Int)
+(declare-const y120 Int)
+
+(assert (and (= x120 10000000002147) (= y120 10000000001314)))
+(assert (= Tokens120 (+ B120 (* 3 A120))))
+(assert (= x120 (+ (* B120 17) (* A120 49))))
+(assert (= y120 (+ (* B120 54) (* A120 18))))
+
+(minimize Tokens120)
+(check-sat)
+(get-value (Tokens120))
+(pop)
+    
+
+(push)
+(declare-const Tokens121 Int)
+(declare-const A121 Int)
+(declare-const B121 Int)
+(declare-const x121 Int)
+(declare-const y121 Int)
+
+(assert (and (= x121 10000000004078) (= y121 10000000001492)))
+(assert (= Tokens121 (+ B121 (* 3 A121))))
+(assert (= x121 (+ (* B121 26) (* A121 31))))
+(assert (= y121 (+ (* B121 59) (* A121 14))))
+
+(minimize Tokens121)
+(check-sat)
+(get-value (Tokens121))
+(pop)
+    
+
+(push)
+(declare-const Tokens122 Int)
+(declare-const A122 Int)
+(declare-const B122 Int)
+(declare-const x122 Int)
+(declare-const y122 Int)
+
+(assert (and (= x122 10000000003685) (= y122 10000000002872)))
+(assert (= Tokens122 (+ B122 (* 3 A122))))
+(assert (= x122 (+ (* B122 55) (* A122 25))))
+(assert (= y122 (+ (* B122 16) (* A122 40))))
+
+(minimize Tokens122)
+(check-sat)
+(get-value (Tokens122))
+(pop)
+    
+
+(push)
+(declare-const Tokens123 Int)
+(declare-const A123 Int)
+(declare-const B123 Int)
+(declare-const x123 Int)
+(declare-const y123 Int)
+
+(assert (and (= x123 10000000016840) (= y123 10000000013104)))
+(assert (= Tokens123 (+ B123 (* 3 A123))))
+(assert (= x123 (+ (* B123 61) (* A123 17))))
+(assert (= y123 (+ (* B123 26) (* A123 58))))
+
+(minimize Tokens123)
+(check-sat)
+(get-value (Tokens123))
+(pop)
+    
+
+(push)
+(declare-const Tokens124 Int)
+(declare-const A124 Int)
+(declare-const B124 Int)
+(declare-const x124 Int)
+(declare-const y124 Int)
+
+(assert (and (= x124 10000000005102) (= y124 10000000010414)))
+(assert (= Tokens124 (+ B124 (* 3 A124))))
+(assert (= x124 (+ (* B124 13) (* A124 61))))
+(assert (= y124 (+ (* B124 96) (* A124 61))))
+
+(minimize Tokens124)
+(check-sat)
+(get-value (Tokens124))
+(pop)
+    
+
+(push)
+(declare-const Tokens125 Int)
+(declare-const A125 Int)
+(declare-const B125 Int)
+(declare-const x125 Int)
+(declare-const y125 Int)
+
+(assert (and (= x125 10000000003279) (= y125 10000000008127)))
+(assert (= Tokens125 (+ B125 (* 3 A125))))
+(assert (= x125 (+ (* B125 60) (* A125 11))))
+(assert (= y125 (+ (* B125 67) (* A125 77))))
+
+(minimize Tokens125)
+(check-sat)
+(get-value (Tokens125))
+(pop)
+    
+
+(push)
+(declare-const Tokens126 Int)
+(declare-const A126 Int)
+(declare-const B126 Int)
+(declare-const x126 Int)
+(declare-const y126 Int)
+
+(assert (and (= x126 10000000008494) (= y126 10000000015006)))
+(assert (= Tokens126 (+ B126 (* 3 A126))))
+(assert (= x126 (+ (* B126 17) (* A126 94))))
+(assert (= y126 (+ (* B126 97) (* A126 78))))
+
+(minimize Tokens126)
+(check-sat)
+(get-value (Tokens126))
+(pop)
+    
+
+(push)
+(declare-const Tokens127 Int)
+(declare-const A127 Int)
+(declare-const B127 Int)
+(declare-const x127 Int)
+(declare-const y127 Int)
+
+(assert (and (= x127 10000000018614) (= y127 10000000009413)))
+(assert (= Tokens127 (+ B127 (* 3 A127))))
+(assert (= x127 (+ (* B127 20) (* A127 42))))
+(assert (= y127 (+ (* B127 48) (* A127 11))))
+
+(minimize Tokens127)
+(check-sat)
+(get-value (Tokens127))
+(pop)
+    
+
+(push)
+(declare-const Tokens128 Int)
+(declare-const A128 Int)
+(declare-const B128 Int)
+(declare-const x128 Int)
+(declare-const y128 Int)
+
+(assert (and (= x128 10000000002144) (= y128 10000000007352)))
+(assert (= Tokens128 (+ B128 (* 3 A128))))
+(assert (= x128 (+ (* B128 64) (* A128 15))))
+(assert (= y128 (+ (* B128 24) (* A128 36))))
+
+(minimize Tokens128)
+(check-sat)
+(get-value (Tokens128))
+(pop)
+    
+
+(push)
+(declare-const Tokens129 Int)
+(declare-const A129 Int)
+(declare-const B129 Int)
+(declare-const x129 Int)
+(declare-const y129 Int)
+
+(assert (and (= x129 10000000003668) (= y129 10000000002696)))
+(assert (= Tokens129 (+ B129 (* 3 A129))))
+(assert (= x129 (+ (* B129 62) (* A129 30))))
+(assert (= y129 (+ (* B129 12) (* A129 44))))
+
+(minimize Tokens129)
+(check-sat)
+(get-value (Tokens129))
+(pop)
+    
+
+(push)
+(declare-const Tokens130 Int)
+(declare-const A130 Int)
+(declare-const B130 Int)
+(declare-const x130 Int)
+(declare-const y130 Int)
+
+(assert (and (= x130 10000000003738) (= y130 10000000004709)))
+(assert (= Tokens130 (+ B130 (* 3 A130))))
+(assert (= x130 (+ (* B130 37) (* A130 15))))
+(assert (= y130 (+ (* B130 11) (* A130 50))))
+
+(minimize Tokens130)
+(check-sat)
+(get-value (Tokens130))
+(pop)
+    
+
+(push)
+(declare-const Tokens131 Int)
+(declare-const A131 Int)
+(declare-const B131 Int)
+(declare-const x131 Int)
+(declare-const y131 Int)
+
+(assert (and (= x131 10000000018147) (= y131 10000000005761)))
+(assert (= Tokens131 (+ B131 (* 3 A131))))
+(assert (= x131 (+ (* B131 13) (* A131 22))))
+(assert (= y131 (+ (* B131 35) (* A131 11))))
+
+(minimize Tokens131)
+(check-sat)
+(get-value (Tokens131))
+(pop)
+    
+
+(push)
+(declare-const Tokens132 Int)
+(declare-const A132 Int)
+(declare-const B132 Int)
+(declare-const x132 Int)
+(declare-const y132 Int)
+
+(assert (and (= x132 10000000010896) (= y132 10000000012528)))
+(assert (= Tokens132 (+ B132 (* 3 A132))))
+(assert (= x132 (+ (* B132 14) (* A132 76))))
+(assert (= y132 (+ (* B132 67) (* A132 18))))
+
+(minimize Tokens132)
+(check-sat)
+(get-value (Tokens132))
+(pop)
+    
+
+(push)
+(declare-const Tokens133 Int)
+(declare-const A133 Int)
+(declare-const B133 Int)
+(declare-const x133 Int)
+(declare-const y133 Int)
+
+(assert (and (= x133 10000000003177) (= y133 10000000002403)))
+(assert (= Tokens133 (+ B133 (* 3 A133))))
+(assert (= x133 (+ (* B133 24) (* A133 69))))
+(assert (= y133 (+ (* B133 81) (* A133 48))))
+
+(minimize Tokens133)
+(check-sat)
+(get-value (Tokens133))
+(pop)
+    
+
+(push)
+(declare-const Tokens134 Int)
+(declare-const A134 Int)
+(declare-const B134 Int)
+(declare-const x134 Int)
+(declare-const y134 Int)
+
+(assert (and (= x134 10000000000864) (= y134 10000000001721)))
+(assert (= Tokens134 (+ B134 (* 3 A134))))
+(assert (= x134 (+ (* B134 18) (* A134 90))))
+(assert (= y134 (+ (* B134 92) (* A134 75))))
+
+(minimize Tokens134)
+(check-sat)
+(get-value (Tokens134))
+(pop)
+    
+
+(push)
+(declare-const Tokens135 Int)
+(declare-const A135 Int)
+(declare-const B135 Int)
+(declare-const x135 Int)
+(declare-const y135 Int)
+
+(assert (and (= x135 10000000006430) (= y135 10000000004599)))
+(assert (= Tokens135 (+ B135 (* 3 A135))))
+(assert (= x135 (+ (* B135 13) (* A135 99))))
+(assert (= y135 (+ (* B135 22) (* A135 49))))
+
+(minimize Tokens135)
+(check-sat)
+(get-value (Tokens135))
+(pop)
+    
+
+(push)
+(declare-const Tokens136 Int)
+(declare-const A136 Int)
+(declare-const B136 Int)
+(declare-const x136 Int)
+(declare-const y136 Int)
+
+(assert (and (= x136 10000000009446) (= y136 10000000006205)))
+(assert (= Tokens136 (+ B136 (* 3 A136))))
+(assert (= x136 (+ (* B136 42) (* A136 48))))
+(assert (= y136 (+ (* B136 79) (* A136 12))))
+
+(minimize Tokens136)
+(check-sat)
+(get-value (Tokens136))
+(pop)
+    
+
+(push)
+(declare-const Tokens137 Int)
+(declare-const A137 Int)
+(declare-const B137 Int)
+(declare-const x137 Int)
+(declare-const y137 Int)
+
+(assert (and (= x137 10000000001563) (= y137 10000000004438)))
+(assert (= Tokens137 (+ B137 (* 3 A137))))
+(assert (= x137 (+ (* B137 21) (* A137 73))))
+(assert (= y137 (+ (* B137 66) (* A137 23))))
+
+(minimize Tokens137)
+(check-sat)
+(get-value (Tokens137))
+(pop)
+    
+
+(push)
+(declare-const Tokens138 Int)
+(declare-const A138 Int)
+(declare-const B138 Int)
+(declare-const x138 Int)
+(declare-const y138 Int)
+
+(assert (and (= x138 10000000012065) (= y138 10000000007595)))
+(assert (= Tokens138 (+ B138 (* 3 A138))))
+(assert (= x138 (+ (* B138 40) (* A138 17))))
+(assert (= y138 (+ (* B138 15) (* A138 54))))
+
+(minimize Tokens138)
+(check-sat)
+(get-value (Tokens138))
+(pop)
+    
+
+(push)
+(declare-const Tokens139 Int)
+(declare-const A139 Int)
+(declare-const B139 Int)
+(declare-const x139 Int)
+(declare-const y139 Int)
+
+(assert (and (= x139 10000000003393) (= y139 10000000009108)))
+(assert (= Tokens139 (+ B139 (* 3 A139))))
+(assert (= x139 (+ (* B139 30) (* A139 77))))
+(assert (= y139 (+ (* B139 95) (* A139 62))))
+
+(minimize Tokens139)
+(check-sat)
+(get-value (Tokens139))
+(pop)
+    
+
+(push)
+(declare-const Tokens140 Int)
+(declare-const A140 Int)
+(declare-const B140 Int)
+(declare-const x140 Int)
+(declare-const y140 Int)
+
+(assert (and (= x140 10000000002148) (= y140 10000000002892)))
+(assert (= Tokens140 (+ B140 (* 3 A140))))
+(assert (= x140 (+ (* B140 65) (* A140 38))))
+(assert (= y140 (+ (* B140 34) (* A140 69))))
+
+(minimize Tokens140)
+(check-sat)
+(get-value (Tokens140))
+(pop)
+    
+
+(push)
+(declare-const Tokens141 Int)
+(declare-const A141 Int)
+(declare-const B141 Int)
+(declare-const x141 Int)
+(declare-const y141 Int)
+
+(assert (and (= x141 10000000008086) (= y141 10000000013240)))
+(assert (= Tokens141 (+ B141 (* 3 A141))))
+(assert (= x141 (+ (* B141 76) (* A141 14))))
+(assert (= y141 (+ (* B141 68) (* A141 80))))
+
+(minimize Tokens141)
+(check-sat)
+(get-value (Tokens141))
+(pop)
+    
+
+(push)
+(declare-const Tokens142 Int)
+(declare-const A142 Int)
+(declare-const B142 Int)
+(declare-const x142 Int)
+(declare-const y142 Int)
+
+(assert (and (= x142 10000000001996) (= y142 10000000016454)))
+(assert (= Tokens142 (+ B142 (* 3 A142))))
+(assert (= x142 (+ (* B142 30) (* A142 52))))
+(assert (= y142 (+ (* B142 57) (* A142 15))))
+
+(minimize Tokens142)
+(check-sat)
+(get-value (Tokens142))
+(pop)
+    
+
+(push)
+(declare-const Tokens143 Int)
+(declare-const A143 Int)
+(declare-const B143 Int)
+(declare-const x143 Int)
+(declare-const y143 Int)
+
+(assert (and (= x143 10000000005247) (= y143 10000000002335)))
+(assert (= Tokens143 (+ B143 (* 3 A143))))
+(assert (= x143 (+ (* B143 99) (* A143 45))))
+(assert (= y143 (+ (* B143 31) (* A143 77))))
+
+(minimize Tokens143)
+(check-sat)
+(get-value (Tokens143))
+(pop)
+    
+
+(push)
+(declare-const Tokens144 Int)
+(declare-const A144 Int)
+(declare-const B144 Int)
+(declare-const x144 Int)
+(declare-const y144 Int)
+
+(assert (and (= x144 10000000006884) (= y144 10000000007316)))
+(assert (= Tokens144 (+ B144 (* 3 A144))))
+(assert (= x144 (+ (* B144 94) (* A144 17))))
+(assert (= y144 (+ (* B144 66) (* A144 74))))
+
+(minimize Tokens144)
+(check-sat)
+(get-value (Tokens144))
+(pop)
+    
+
+(push)
+(declare-const Tokens145 Int)
+(declare-const A145 Int)
+(declare-const B145 Int)
+(declare-const x145 Int)
+(declare-const y145 Int)
+
+(assert (and (= x145 10000000011722) (= y145 10000000017287)))
+(assert (= Tokens145 (+ B145 (* 3 A145))))
+(assert (= x145 (+ (* B145 25) (* A145 24))))
+(assert (= y145 (+ (* B145 48) (* A145 13))))
+
+(minimize Tokens145)
+(check-sat)
+(get-value (Tokens145))
+(pop)
+    
+
+(push)
+(declare-const Tokens146 Int)
+(declare-const A146 Int)
+(declare-const B146 Int)
+(declare-const x146 Int)
+(declare-const y146 Int)
+
+(assert (and (= x146 10000000005659) (= y146 10000000009842)))
+(assert (= Tokens146 (+ B146 (* 3 A146))))
+(assert (= x146 (+ (* B146 57) (* A146 46))))
+(assert (= y146 (+ (* B146 16) (* A146 98))))
+
+(minimize Tokens146)
+(check-sat)
+(get-value (Tokens146))
+(pop)
+    
+
+(push)
+(declare-const Tokens147 Int)
+(declare-const A147 Int)
+(declare-const B147 Int)
+(declare-const x147 Int)
+(declare-const y147 Int)
+
+(assert (and (= x147 10000000001053) (= y147 10000000001368)))
+(assert (= Tokens147 (+ B147 (* 3 A147))))
+(assert (= x147 (+ (* B147 22) (* A147 51))))
+(assert (= y147 (+ (* B147 46) (* A147 14))))
+
+(minimize Tokens147)
+(check-sat)
+(get-value (Tokens147))
+(pop)
+    
+
+(push)
+(declare-const Tokens148 Int)
+(declare-const A148 Int)
+(declare-const B148 Int)
+(declare-const x148 Int)
+(declare-const y148 Int)
+
+(assert (and (= x148 10000000019554) (= y148 10000000018104)))
+(assert (= Tokens148 (+ B148 (* 3 A148))))
+(assert (= x148 (+ (* B148 38) (* A148 18))))
+(assert (= y148 (+ (* B148 18) (* A148 57))))
+
+(minimize Tokens148)
+(check-sat)
+(get-value (Tokens148))
+(pop)
+    
+
+(push)
+(declare-const Tokens149 Int)
+(declare-const A149 Int)
+(declare-const B149 Int)
+(declare-const x149 Int)
+(declare-const y149 Int)
+
+(assert (and (= x149 10000000003632) (= y149 10000000008523)))
+(assert (= Tokens149 (+ B149 (* 3 A149))))
+(assert (= x149 (+ (* B149 78) (* A149 12))))
+(assert (= y149 (+ (* B149 31) (* A149 51))))
+
+(minimize Tokens149)
+(check-sat)
+(get-value (Tokens149))
+(pop)
+    
+
+(push)
+(declare-const Tokens150 Int)
+(declare-const A150 Int)
+(declare-const B150 Int)
+(declare-const x150 Int)
+(declare-const y150 Int)
+
+(assert (and (= x150 10000000004477) (= y150 10000000001939)))
+(assert (= Tokens150 (+ B150 (* 3 A150))))
+(assert (= x150 (+ (* B150 43) (* A150 49))))
+(assert (= y150 (+ (* B150 17) (* A150 72))))
+
+(minimize Tokens150)
+(check-sat)
+(get-value (Tokens150))
+(pop)
+    
+
+(push)
+(declare-const Tokens151 Int)
+(declare-const A151 Int)
+(declare-const B151 Int)
+(declare-const x151 Int)
+(declare-const y151 Int)
+
+(assert (and (= x151 10000000003926) (= y151 10000000007895)))
+(assert (= Tokens151 (+ B151 (* 3 A151))))
+(assert (= x151 (+ (* B151 82) (* A151 24))))
+(assert (= y151 (+ (* B151 55) (* A151 78))))
+
+(minimize Tokens151)
+(check-sat)
+(get-value (Tokens151))
+(pop)
+    
+
+(push)
+(declare-const Tokens152 Int)
+(declare-const A152 Int)
+(declare-const B152 Int)
+(declare-const x152 Int)
+(declare-const y152 Int)
+
+(assert (and (= x152 10000000010324) (= y152 10000000010656)))
+(assert (= Tokens152 (+ B152 (* 3 A152))))
+(assert (= x152 (+ (* B152 20) (* A152 58))))
+(assert (= y152 (+ (* B152 48) (* A152 20))))
+
+(minimize Tokens152)
+(check-sat)
+(get-value (Tokens152))
+(pop)
+    
+
+(push)
+(declare-const Tokens153 Int)
+(declare-const A153 Int)
+(declare-const B153 Int)
+(declare-const x153 Int)
+(declare-const y153 Int)
+
+(assert (and (= x153 10000000019127) (= y153 10000000006081)))
+(assert (= Tokens153 (+ B153 (* 3 A153))))
+(assert (= x153 (+ (* B153 23) (* A153 62))))
+(assert (= y153 (+ (* B153 82) (* A153 11))))
+
+(minimize Tokens153)
+(check-sat)
+(get-value (Tokens153))
+(pop)
+    
+
+(push)
+(declare-const Tokens154 Int)
+(declare-const A154 Int)
+(declare-const B154 Int)
+(declare-const x154 Int)
+(declare-const y154 Int)
+
+(assert (and (= x154 10000000013530) (= y154 10000000015410)))
+(assert (= Tokens154 (+ B154 (* 3 A154))))
+(assert (= x154 (+ (* B154 46) (* A154 13))))
+(assert (= y154 (+ (* B154 24) (* A154 27))))
+
+(minimize Tokens154)
+(check-sat)
+(get-value (Tokens154))
+(pop)
+    
+
+(push)
+(declare-const Tokens155 Int)
+(declare-const A155 Int)
+(declare-const B155 Int)
+(declare-const x155 Int)
+(declare-const y155 Int)
+
+(assert (and (= x155 10000000006138) (= y155 10000000014558)))
+(assert (= Tokens155 (+ B155 (* 3 A155))))
+(assert (= x155 (+ (* B155 13) (* A155 76))))
+(assert (= y155 (+ (* B155 95) (* A155 82))))
+
+(minimize Tokens155)
+(check-sat)
+(get-value (Tokens155))
+(pop)
+    
+
+(push)
+(declare-const Tokens156 Int)
+(declare-const A156 Int)
+(declare-const B156 Int)
+(declare-const x156 Int)
+(declare-const y156 Int)
+
+(assert (and (= x156 10000000010193) (= y156 10000000019679)))
+(assert (= Tokens156 (+ B156 (* 3 A156))))
+(assert (= x156 (+ (* B156 78) (* A156 19))))
+(assert (= y156 (+ (* B156 24) (* A156 69))))
+
+(minimize Tokens156)
+(check-sat)
+(get-value (Tokens156))
+(pop)
+    
+
+(push)
+(declare-const Tokens157 Int)
+(declare-const A157 Int)
+(declare-const B157 Int)
+(declare-const x157 Int)
+(declare-const y157 Int)
+
+(assert (and (= x157 10000000003456) (= y157 10000000002136)))
+(assert (= Tokens157 (+ B157 (* 3 A157))))
+(assert (= x157 (+ (* B157 90) (* A157 54))))
+(assert (= y157 (+ (* B157 24) (* A157 65))))
+
+(minimize Tokens157)
+(check-sat)
+(get-value (Tokens157))
+(pop)
+    
+
+(push)
+(declare-const Tokens158 Int)
+(declare-const A158 Int)
+(declare-const B158 Int)
+(declare-const x158 Int)
+(declare-const y158 Int)
+
+(assert (and (= x158 10000000008917) (= y158 10000000007375)))
+(assert (= Tokens158 (+ B158 (* 3 A158))))
+(assert (= x158 (+ (* B158 34) (* A158 23))))
+(assert (= y158 (+ (* B158 20) (* A158 45))))
+
+(minimize Tokens158)
+(check-sat)
+(get-value (Tokens158))
+(pop)
+    
+
+(push)
+(declare-const Tokens159 Int)
+(declare-const A159 Int)
+(declare-const B159 Int)
+(declare-const x159 Int)
+(declare-const y159 Int)
+
+(assert (and (= x159 10000000004042) (= y159 10000000015244)))
+(assert (= Tokens159 (+ B159 (* 3 A159))))
+(assert (= x159 (+ (* B159 19) (* A159 30))))
+(assert (= y159 (+ (* B159 43) (* A159 15))))
+
+(minimize Tokens159)
+(check-sat)
+(get-value (Tokens159))
+(pop)
+    
+
+(push)
+(declare-const Tokens160 Int)
+(declare-const A160 Int)
+(declare-const B160 Int)
+(declare-const x160 Int)
+(declare-const y160 Int)
+
+(assert (and (= x160 10000000003281) (= y160 10000000013384)))
+(assert (= Tokens160 (+ B160 (* 3 A160))))
+(assert (= x160 (+ (* B160 37) (* A160 40))))
+(assert (= y160 (+ (* B160 59) (* A160 19))))
+
+(minimize Tokens160)
+(check-sat)
+(get-value (Tokens160))
+(pop)
+    
+
+(push)
+(declare-const Tokens161 Int)
+(declare-const A161 Int)
+(declare-const B161 Int)
+(declare-const x161 Int)
+(declare-const y161 Int)
+
+(assert (and (= x161 10000000000977) (= y161 10000000009993)))
+(assert (= Tokens161 (+ B161 (* 3 A161))))
+(assert (= x161 (+ (* B161 59) (* A161 16))))
+(assert (= y161 (+ (* B161 14) (* A161 57))))
+
+(minimize Tokens161)
+(check-sat)
+(get-value (Tokens161))
+(pop)
+    
+
+(push)
+(declare-const Tokens162 Int)
+(declare-const A162 Int)
+(declare-const B162 Int)
+(declare-const x162 Int)
+(declare-const y162 Int)
+
+(assert (and (= x162 10000000007376) (= y162 10000000017021)))
+(assert (= Tokens162 (+ B162 (* 3 A162))))
+(assert (= x162 (+ (* B162 72) (* A162 16))))
+(assert (= y162 (+ (* B162 12) (* A162 81))))
+
+(minimize Tokens162)
+(check-sat)
+(get-value (Tokens162))
+(pop)
+    
+
+(push)
+(declare-const Tokens163 Int)
+(declare-const A163 Int)
+(declare-const B163 Int)
+(declare-const x163 Int)
+(declare-const y163 Int)
+
+(assert (and (= x163 10000000001643) (= y163 10000000003630)))
+(assert (= Tokens163 (+ B163 (* 3 A163))))
+(assert (= x163 (+ (* B163 53) (* A163 11))))
+(assert (= y163 (+ (* B163 49) (* A163 50))))
+
+(minimize Tokens163)
+(check-sat)
+(get-value (Tokens163))
+(pop)
+    
+
+(push)
+(declare-const Tokens164 Int)
+(declare-const A164 Int)
+(declare-const B164 Int)
+(declare-const x164 Int)
+(declare-const y164 Int)
+
+(assert (and (= x164 10000000003300) (= y164 10000000001188)))
+(assert (= Tokens164 (+ B164 (* 3 A164))))
+(assert (= x164 (+ (* B164 55) (* A164 66))))
+(assert (= y164 (+ (* B164 78) (* A164 16))))
+
+(minimize Tokens164)
+(check-sat)
+(get-value (Tokens164))
+(pop)
+    
+
+(push)
+(declare-const Tokens165 Int)
+(declare-const A165 Int)
+(declare-const B165 Int)
+(declare-const x165 Int)
+(declare-const y165 Int)
+
+(assert (and (= x165 10000000012200) (= y165 10000000006032)))
+(assert (= Tokens165 (+ B165 (* 3 A165))))
+(assert (= x165 (+ (* B165 46) (* A165 24))))
+(assert (= y165 (+ (* B165 15) (* A165 53))))
+
+(minimize Tokens165)
+(check-sat)
+(get-value (Tokens165))
+(pop)
+    
+
+(push)
+(declare-const Tokens166 Int)
+(declare-const A166 Int)
+(declare-const B166 Int)
+(declare-const x166 Int)
+(declare-const y166 Int)
+
+(assert (and (= x166 10000000009956) (= y166 10000000006004)))
+(assert (= Tokens166 (+ B166 (* 3 A166))))
+(assert (= x166 (+ (* B166 37) (* A166 93))))
+(assert (= y166 (+ (* B166 53) (* A166 30))))
+
+(minimize Tokens166)
+(check-sat)
+(get-value (Tokens166))
+(pop)
+    
+
+(push)
+(declare-const Tokens167 Int)
+(declare-const A167 Int)
+(declare-const B167 Int)
+(declare-const x167 Int)
+(declare-const y167 Int)
+
+(assert (and (= x167 10000000000529) (= y167 10000000009903)))
+(assert (= Tokens167 (+ B167 (* 3 A167))))
+(assert (= x167 (+ (* B167 29) (* A167 67))))
+(assert (= y167 (+ (* B167 64) (* A167 29))))
+
+(minimize Tokens167)
+(check-sat)
+(get-value (Tokens167))
+(pop)
+    
+
+(push)
+(declare-const Tokens168 Int)
+(declare-const A168 Int)
+(declare-const B168 Int)
+(declare-const x168 Int)
+(declare-const y168 Int)
+
+(assert (and (= x168 10000000005300) (= y168 10000000012722)))
+(assert (= Tokens168 (+ B168 (* 3 A168))))
+(assert (= x168 (+ (* B168 11) (* A168 54))))
+(assert (= y168 (+ (* B168 95) (* A168 48))))
+
+(minimize Tokens168)
+(check-sat)
+(get-value (Tokens168))
+(pop)
+    
+
+(push)
+(declare-const Tokens169 Int)
+(declare-const A169 Int)
+(declare-const B169 Int)
+(declare-const x169 Int)
+(declare-const y169 Int)
+
+(assert (and (= x169 10000000010641) (= y169 10000000000668)))
+(assert (= Tokens169 (+ B169 (* 3 A169))))
+(assert (= x169 (+ (* B169 21) (* A169 25))))
+(assert (= y169 (+ (* B169 48) (* A169 15))))
+
+(minimize Tokens169)
+(check-sat)
+(get-value (Tokens169))
+(pop)
+    
+
+(push)
+(declare-const Tokens170 Int)
+(declare-const A170 Int)
+(declare-const B170 Int)
+(declare-const x170 Int)
+(declare-const y170 Int)
+
+(assert (and (= x170 10000000018161) (= y170 10000000000926)))
+(assert (= Tokens170 (+ B170 (* 3 A170))))
+(assert (= x170 (+ (* B170 55) (* A170 29))))
+(assert (= y170 (+ (* B170 17) (* A170 70))))
+
+(minimize Tokens170)
+(check-sat)
+(get-value (Tokens170))
+(pop)
+    
+
+(push)
+(declare-const Tokens171 Int)
+(declare-const A171 Int)
+(declare-const B171 Int)
+(declare-const x171 Int)
+(declare-const y171 Int)
+
+(assert (and (= x171 10000000010230) (= y171 10000000009044)))
+(assert (= Tokens171 (+ B171 (* 3 A171))))
+(assert (= x171 (+ (* B171 99) (* A171 39))))
+(assert (= y171 (+ (* B171 49) (* A171 71))))
+
+(minimize Tokens171)
+(check-sat)
+(get-value (Tokens171))
+(pop)
+    
+
+(push)
+(declare-const Tokens172 Int)
+(declare-const A172 Int)
+(declare-const B172 Int)
+(declare-const x172 Int)
+(declare-const y172 Int)
+
+(assert (and (= x172 10000000006813) (= y172 10000000008195)))
+(assert (= Tokens172 (+ B172 (* 3 A172))))
+(assert (= x172 (+ (* B172 69) (* A172 28))))
+(assert (= y172 (+ (* B172 20) (* A172 75))))
+
+(minimize Tokens172)
+(check-sat)
+(get-value (Tokens172))
+(pop)
+    
+
+(push)
+(declare-const Tokens173 Int)
+(declare-const A173 Int)
+(declare-const B173 Int)
+(declare-const x173 Int)
+(declare-const y173 Int)
+
+(assert (and (= x173 10000000005784) (= y173 10000000016940)))
+(assert (= Tokens173 (+ B173 (* 3 A173))))
+(assert (= x173 (+ (* B173 26) (* A173 57))))
+(assert (= y173 (+ (* B173 51) (* A173 24))))
+
+(minimize Tokens173)
+(check-sat)
+(get-value (Tokens173))
+(pop)
+    
+
+(push)
+(declare-const Tokens174 Int)
+(declare-const A174 Int)
+(declare-const B174 Int)
+(declare-const x174 Int)
+(declare-const y174 Int)
+
+(assert (and (= x174 10000000006232) (= y174 10000000007336)))
+(assert (= Tokens174 (+ B174 (* 3 A174))))
+(assert (= x174 (+ (* B174 13) (* A174 90))))
+(assert (= y174 (+ (* B174 49) (* A174 70))))
+
+(minimize Tokens174)
+(check-sat)
+(get-value (Tokens174))
+(pop)
+    
+
+(push)
+(declare-const Tokens175 Int)
+(declare-const A175 Int)
+(declare-const B175 Int)
+(declare-const x175 Int)
+(declare-const y175 Int)
+
+(assert (and (= x175 10000000007382) (= y175 10000000002222)))
+(assert (= Tokens175 (+ B175 (* 3 A175))))
+(assert (= x175 (+ (* B175 31) (* A175 27))))
+(assert (= y175 (+ (* B175 54) (* A175 12))))
+
+(minimize Tokens175)
+(check-sat)
+(get-value (Tokens175))
+(pop)
+    
+
+(push)
+(declare-const Tokens176 Int)
+(declare-const A176 Int)
+(declare-const B176 Int)
+(declare-const x176 Int)
+(declare-const y176 Int)
+
+(assert (and (= x176 10000000005582) (= y176 10000000006541)))
+(assert (= Tokens176 (+ B176 (* 3 A176))))
+(assert (= x176 (+ (* B176 38) (* A176 52))))
+(assert (= y176 (+ (* B176 59) (* A176 20))))
+
+(minimize Tokens176)
+(check-sat)
+(get-value (Tokens176))
+(pop)
+    
+
+(push)
+(declare-const Tokens177 Int)
+(declare-const A177 Int)
+(declare-const B177 Int)
+(declare-const x177 Int)
+(declare-const y177 Int)
+
+(assert (and (= x177 10000000018634) (= y177 10000000014110)))
+(assert (= Tokens177 (+ B177 (* 3 A177))))
+(assert (= x177 (+ (* B177 58) (* A177 40))))
+(assert (= y177 (+ (* B177 87) (* A177 11))))
+
+(minimize Tokens177)
+(check-sat)
+(get-value (Tokens177))
+(pop)
+    
+
+(push)
+(declare-const Tokens178 Int)
+(declare-const A178 Int)
+(declare-const B178 Int)
+(declare-const x178 Int)
+(declare-const y178 Int)
+
+(assert (and (= x178 10000000014724) (= y178 10000000000521)))
+(assert (= Tokens178 (+ B178 (* 3 A178))))
+(assert (= x178 (+ (* B178 52) (* A178 12))))
+(assert (= y178 (+ (* B178 30) (* A178 21))))
+
+(minimize Tokens178)
+(check-sat)
+(get-value (Tokens178))
+(pop)
+    
+
+(push)
+(declare-const Tokens179 Int)
+(declare-const A179 Int)
+(declare-const B179 Int)
+(declare-const x179 Int)
+(declare-const y179 Int)
+
+(assert (and (= x179 10000000009860) (= y179 10000000010836)))
+(assert (= Tokens179 (+ B179 (* 3 A179))))
+(assert (= x179 (+ (* B179 90) (* A179 28))))
+(assert (= y179 (+ (* B179 69) (* A179 87))))
+
+(minimize Tokens179)
+(check-sat)
+(get-value (Tokens179))
+(pop)
+    
+
+(push)
+(declare-const Tokens180 Int)
+(declare-const A180 Int)
+(declare-const B180 Int)
+(declare-const x180 Int)
+(declare-const y180 Int)
+
+(assert (and (= x180 10000000004978) (= y180 10000000005513)))
+(assert (= Tokens180 (+ B180 (* 3 A180))))
+(assert (= x180 (+ (* B180 24) (* A180 62))))
+(assert (= y180 (+ (* B180 82) (* A180 17))))
+
+(minimize Tokens180)
+(check-sat)
+(get-value (Tokens180))
+(pop)
+    
+
+(push)
+(declare-const Tokens181 Int)
+(declare-const A181 Int)
+(declare-const B181 Int)
+(declare-const x181 Int)
+(declare-const y181 Int)
+
+(assert (and (= x181 10000000003760) (= y181 10000000009852)))
+(assert (= Tokens181 (+ B181 (* 3 A181))))
+(assert (= x181 (+ (* B181 59) (* A181 35))))
+(assert (= y181 (+ (* B181 30) (* A181 98))))
+
+(minimize Tokens181)
+(check-sat)
+(get-value (Tokens181))
+(pop)
+    
+
+(push)
+(declare-const Tokens182 Int)
+(declare-const A182 Int)
+(declare-const B182 Int)
+(declare-const x182 Int)
+(declare-const y182 Int)
+
+(assert (and (= x182 10000000005663) (= y182 10000000005468)))
+(assert (= Tokens182 (+ B182 (* 3 A182))))
+(assert (= x182 (+ (* B182 46) (* A182 31))))
+(assert (= y182 (+ (* B182 17) (* A182 59))))
+
+(minimize Tokens182)
+(check-sat)
+(get-value (Tokens182))
+(pop)
+    
+
+(push)
+(declare-const Tokens183 Int)
+(declare-const A183 Int)
+(declare-const B183 Int)
+(declare-const x183 Int)
+(declare-const y183 Int)
+
+(assert (and (= x183 10000000003284) (= y183 10000000017997)))
+(assert (= Tokens183 (+ B183 (* 3 A183))))
+(assert (= x183 (+ (* B183 16) (* A183 68))))
+(assert (= y183 (+ (* B183 33) (* A183 44))))
+
+(minimize Tokens183)
+(check-sat)
+(get-value (Tokens183))
+(pop)
+    
+
+(push)
+(declare-const Tokens184 Int)
+(declare-const A184 Int)
+(declare-const B184 Int)
+(declare-const x184 Int)
+(declare-const y184 Int)
+
+(assert (and (= x184 10000000008928) (= y184 10000000014792)))
+(assert (= Tokens184 (+ B184 (* 3 A184))))
+(assert (= x184 (+ (* B184 26) (* A184 86))))
+(assert (= y184 (+ (* B184 98) (* A184 76))))
+
+(minimize Tokens184)
+(check-sat)
+(get-value (Tokens184))
+(pop)
+    
+
+(push)
+(declare-const Tokens185 Int)
+(declare-const A185 Int)
+(declare-const B185 Int)
+(declare-const x185 Int)
+(declare-const y185 Int)
+
+(assert (and (= x185 10000000003355) (= y185 10000000015681)))
+(assert (= Tokens185 (+ B185 (* 3 A185))))
+(assert (= x185 (+ (* B185 61) (* A185 13))))
+(assert (= y185 (+ (* B185 11) (* A185 37))))
+
+(minimize Tokens185)
+(check-sat)
+(get-value (Tokens185))
+(pop)
+    
+
+(push)
+(declare-const Tokens186 Int)
+(declare-const A186 Int)
+(declare-const B186 Int)
+(declare-const x186 Int)
+(declare-const y186 Int)
+
+(assert (and (= x186 10000000003925) (= y186 10000000007403)))
+(assert (= Tokens186 (+ B186 (* 3 A186))))
+(assert (= x186 (+ (* B186 42) (* A186 41))))
+(assert (= y186 (+ (* B186 69) (* A186 21))))
+
+(minimize Tokens186)
+(check-sat)
+(get-value (Tokens186))
+(pop)
+    
+
+(push)
+(declare-const Tokens187 Int)
+(declare-const A187 Int)
+(declare-const B187 Int)
+(declare-const x187 Int)
+(declare-const y187 Int)
+
+(assert (and (= x187 10000000010412) (= y187 10000000009594)))
+(assert (= Tokens187 (+ B187 (* 3 A187))))
+(assert (= x187 (+ (* B187 48) (* A187 68))))
+(assert (= y187 (+ (* B187 78) (* A187 30))))
+
+(minimize Tokens187)
+(check-sat)
+(get-value (Tokens187))
+(pop)
+    
+
+(push)
+(declare-const Tokens188 Int)
+(declare-const A188 Int)
+(declare-const B188 Int)
+(declare-const x188 Int)
+(declare-const y188 Int)
+
+(assert (and (= x188 10000000000856) (= y188 10000000004905)))
+(assert (= Tokens188 (+ B188 (* 3 A188))))
+(assert (= x188 (+ (* B188 61) (* A188 26))))
+(assert (= y188 (+ (* B188 18) (* A188 61))))
+
+(minimize Tokens188)
+(check-sat)
+(get-value (Tokens188))
+(pop)
+    
+
+(push)
+(declare-const Tokens189 Int)
+(declare-const A189 Int)
+(declare-const B189 Int)
+(declare-const x189 Int)
+(declare-const y189 Int)
+
+(assert (and (= x189 10000000005369) (= y189 10000000007203)))
+(assert (= Tokens189 (+ B189 (* 3 A189))))
+(assert (= x189 (+ (* B189 52) (* A189 13))))
+(assert (= y189 (+ (* B189 35) (* A189 82))))
+
+(minimize Tokens189)
+(check-sat)
+(get-value (Tokens189))
+(pop)
+    
+
+(push)
+(declare-const Tokens190 Int)
+(declare-const A190 Int)
+(declare-const B190 Int)
+(declare-const x190 Int)
+(declare-const y190 Int)
+
+(assert (and (= x190 10000000013134) (= y190 10000000010028)))
+(assert (= Tokens190 (+ B190 (* 3 A190))))
+(assert (= x190 (+ (* B190 92) (* A190 54))))
+(assert (= y190 (+ (* B190 29) (* A190 79))))
+
+(minimize Tokens190)
+(check-sat)
+(get-value (Tokens190))
+(pop)
+    
+
+(push)
+(declare-const Tokens191 Int)
+(declare-const A191 Int)
+(declare-const B191 Int)
+(declare-const x191 Int)
+(declare-const y191 Int)
+
+(assert (and (= x191 10000000006370) (= y191 10000000004305)))
+(assert (= Tokens191 (+ B191 (* 3 A191))))
+(assert (= x191 (+ (* B191 29) (* A191 52))))
+(assert (= y191 (+ (* B191 40) (* A191 15))))
+
+(minimize Tokens191)
+(check-sat)
+(get-value (Tokens191))
+(pop)
+    
+
+(push)
+(declare-const Tokens192 Int)
+(declare-const A192 Int)
+(declare-const B192 Int)
+(declare-const x192 Int)
+(declare-const y192 Int)
+
+(assert (and (= x192 10000000015808) (= y192 10000000005680)))
+(assert (= Tokens192 (+ B192 (* 3 A192))))
+(assert (= x192 (+ (* B192 14) (* A192 76))))
+(assert (= y192 (+ (* B192 47) (* A192 31))))
+
+(minimize Tokens192)
+(check-sat)
+(get-value (Tokens192))
+(pop)
+    
+
+(push)
+(declare-const Tokens193 Int)
+(declare-const A193 Int)
+(declare-const B193 Int)
+(declare-const x193 Int)
+(declare-const y193 Int)
+
+(assert (and (= x193 10000000009056) (= y193 10000000005598)))
+(assert (= Tokens193 (+ B193 (* 3 A193))))
+(assert (= x193 (+ (* B193 94) (* A193 57))))
+(assert (= y193 (+ (* B193 42) (* A193 96))))
+
+(minimize Tokens193)
+(check-sat)
+(get-value (Tokens193))
+(pop)
+    
+
+(push)
+(declare-const Tokens194 Int)
+(declare-const A194 Int)
+(declare-const B194 Int)
+(declare-const x194 Int)
+(declare-const y194 Int)
+
+(assert (and (= x194 10000000004295) (= y194 10000000005004)))
+(assert (= Tokens194 (+ B194 (* 3 A194))))
+(assert (= x194 (+ (* B194 14) (* A194 95))))
+(assert (= y194 (+ (* B194 67) (* A194 93))))
+
+(minimize Tokens194)
+(check-sat)
+(get-value (Tokens194))
+(pop)
+    
+
+(push)
+(declare-const Tokens195 Int)
+(declare-const A195 Int)
+(declare-const B195 Int)
+(declare-const x195 Int)
+(declare-const y195 Int)
+
+(assert (and (= x195 10000000008982) (= y195 10000000002742)))
+(assert (= Tokens195 (+ B195 (* 3 A195))))
+(assert (= x195 (+ (* B195 22) (* A195 95))))
+(assert (= y195 (+ (* B195 82) (* A195 20))))
+
+(minimize Tokens195)
+(check-sat)
+(get-value (Tokens195))
+(pop)
+    
+
+(push)
+(declare-const Tokens196 Int)
+(declare-const A196 Int)
+(declare-const B196 Int)
+(declare-const x196 Int)
+(declare-const y196 Int)
+
+(assert (and (= x196 10000000014033) (= y196 10000000003230)))
+(assert (= Tokens196 (+ B196 (* 3 A196))))
+(assert (= x196 (+ (* B196 11) (* A196 35))))
+(assert (= y196 (+ (* B196 24) (* A196 21))))
+
+(minimize Tokens196)
+(check-sat)
+(get-value (Tokens196))
+(pop)
+    
+
+(push)
+(declare-const Tokens197 Int)
+(declare-const A197 Int)
+(declare-const B197 Int)
+(declare-const x197 Int)
+(declare-const y197 Int)
+
+(assert (and (= x197 10000000017261) (= y197 10000000013648)))
+(assert (= Tokens197 (+ B197 (* 3 A197))))
+(assert (= x197 (+ (* B197 17) (* A197 45))))
+(assert (= y197 (+ (* B197 38) (* A197 19))))
+
+(minimize Tokens197)
+(check-sat)
+(get-value (Tokens197))
+(pop)
+    
+
+(push)
+(declare-const Tokens198 Int)
+(declare-const A198 Int)
+(declare-const B198 Int)
+(declare-const x198 Int)
+(declare-const y198 Int)
+
+(assert (and (= x198 10000000005940) (= y198 10000000012900)))
+(assert (= Tokens198 (+ B198 (* 3 A198))))
+(assert (= x198 (+ (* B198 19) (* A198 66))))
+(assert (= y198 (+ (* B198 67) (* A198 18))))
+
+(minimize Tokens198)
+(check-sat)
+(get-value (Tokens198))
+(pop)
+    
+
+(push)
+(declare-const Tokens199 Int)
+(declare-const A199 Int)
+(declare-const B199 Int)
+(declare-const x199 Int)
+(declare-const y199 Int)
+
+(assert (and (= x199 10000000008014) (= y199 10000000005582)))
+(assert (= Tokens199 (+ B199 (* 3 A199))))
+(assert (= x199 (+ (* B199 56) (* A199 61))))
+(assert (= y199 (+ (* B199 16) (* A199 89))))
+
+(minimize Tokens199)
+(check-sat)
+(get-value (Tokens199))
+(pop)
+    
+
+(push)
+(declare-const Tokens200 Int)
+(declare-const A200 Int)
+(declare-const B200 Int)
+(declare-const x200 Int)
+(declare-const y200 Int)
+
+(assert (and (= x200 10000000004968) (= y200 10000000015468)))
+(assert (= Tokens200 (+ B200 (* 3 A200))))
+(assert (= x200 (+ (* B200 49) (* A200 19))))
+(assert (= y200 (+ (* B200 26) (* A200 40))))
+
+(minimize Tokens200)
+(check-sat)
+(get-value (Tokens200))
+(pop)
+    
+
+(push)
+(declare-const Tokens201 Int)
+(declare-const A201 Int)
+(declare-const B201 Int)
+(declare-const x201 Int)
+(declare-const y201 Int)
+
+(assert (and (= x201 10000000010920) (= y201 10000000010345)))
+(assert (= Tokens201 (+ B201 (* 3 A201))))
+(assert (= x201 (+ (* B201 28) (* A201 40))))
+(assert (= y201 (+ (* B201 56) (* A201 15))))
+
+(minimize Tokens201)
+(check-sat)
+(get-value (Tokens201))
+(pop)
+    
+
+(push)
+(declare-const Tokens202 Int)
+(declare-const A202 Int)
+(declare-const B202 Int)
+(declare-const x202 Int)
+(declare-const y202 Int)
+
+(assert (and (= x202 10000000002156) (= y202 10000000005824)))
+(assert (= Tokens202 (+ B202 (* 3 A202))))
+(assert (= x202 (+ (* B202 77) (* A202 11))))
+(assert (= y202 (+ (* B202 42) (* A202 89))))
+
+(minimize Tokens202)
+(check-sat)
+(get-value (Tokens202))
+(pop)
+    
+
+(push)
+(declare-const Tokens203 Int)
+(declare-const A203 Int)
+(declare-const B203 Int)
+(declare-const x203 Int)
+(declare-const y203 Int)
+
+(assert (and (= x203 10000000015824) (= y203 10000000010234)))
+(assert (= Tokens203 (+ B203 (* 3 A203))))
+(assert (= x203 (+ (* B203 92) (* A203 92))))
+(assert (= y203 (+ (* B203 12) (* A203 98))))
+
+(minimize Tokens203)
+(check-sat)
+(get-value (Tokens203))
+(pop)
+    
+
+(push)
+(declare-const Tokens204 Int)
+(declare-const A204 Int)
+(declare-const B204 Int)
+(declare-const x204 Int)
+(declare-const y204 Int)
+
+(assert (and (= x204 10000000004831) (= y204 10000000005270)))
+(assert (= Tokens204 (+ B204 (* 3 A204))))
+(assert (= x204 (+ (* B204 83) (* A204 33))))
+(assert (= y204 (+ (* B204 22) (* A204 58))))
+
+(minimize Tokens204)
+(check-sat)
+(get-value (Tokens204))
+(pop)
+    
+
+(push)
+(declare-const Tokens205 Int)
+(declare-const A205 Int)
+(declare-const B205 Int)
+(declare-const x205 Int)
+(declare-const y205 Int)
+
+(assert (and (= x205 10000000002188) (= y205 10000000016948)))
+(assert (= Tokens205 (+ B205 (* 3 A205))))
+(assert (= x205 (+ (* B205 62) (* A205 13))))
+(assert (= y205 (+ (* B205 29) (* A205 34))))
+
+(minimize Tokens205)
+(check-sat)
+(get-value (Tokens205))
+(pop)
+    
+
+(push)
+(declare-const Tokens206 Int)
+(declare-const A206 Int)
+(declare-const B206 Int)
+(declare-const x206 Int)
+(declare-const y206 Int)
+
+(assert (and (= x206 10000000002451) (= y206 10000000018701)))
+(assert (= Tokens206 (+ B206 (* 3 A206))))
+(assert (= x206 (+ (* B206 42) (* A206 13))))
+(assert (= y206 (+ (* B206 14) (* A206 35))))
+
+(minimize Tokens206)
+(check-sat)
+(get-value (Tokens206))
+(pop)
+    
+
+(push)
+(declare-const Tokens207 Int)
+(declare-const A207 Int)
+(declare-const B207 Int)
+(declare-const x207 Int)
+(declare-const y207 Int)
+
+(assert (and (= x207 10000000019343) (= y207 10000000011164)))
+(assert (= Tokens207 (+ B207 (* 3 A207))))
+(assert (= x207 (+ (* B207 12) (* A207 41))))
+(assert (= y207 (+ (* B207 26) (* A207 18))))
+
+(minimize Tokens207)
+(check-sat)
+(get-value (Tokens207))
+(pop)
+    
+
+(push)
+(declare-const Tokens208 Int)
+(declare-const A208 Int)
+(declare-const B208 Int)
+(declare-const x208 Int)
+(declare-const y208 Int)
+
+(assert (and (= x208 10000000006304) (= y208 10000000005777)))
+(assert (= Tokens208 (+ B208 (* 3 A208))))
+(assert (= x208 (+ (* B208 56) (* A208 76))))
+(assert (= y208 (+ (* B208 13) (* A208 83))))
+
+(minimize Tokens208)
+(check-sat)
+(get-value (Tokens208))
+(pop)
+    
+
+(push)
+(declare-const Tokens209 Int)
+(declare-const A209 Int)
+(declare-const B209 Int)
+(declare-const x209 Int)
+(declare-const y209 Int)
+
+(assert (and (= x209 10000000008102) (= y209 10000000010352)))
+(assert (= Tokens209 (+ B209 (* 3 A209))))
+(assert (= x209 (+ (* B209 46) (* A209 11))))
+(assert (= y209 (+ (* B209 27) (* A209 39))))
+
+(minimize Tokens209)
+(check-sat)
+(get-value (Tokens209))
+(pop)
+    
+
+(push)
+(declare-const Tokens210 Int)
+(declare-const A210 Int)
+(declare-const B210 Int)
+(declare-const x210 Int)
+(declare-const y210 Int)
+
+(assert (and (= x210 10000000001767) (= y210 10000000000721)))
+(assert (= Tokens210 (+ B210 (* 3 A210))))
+(assert (= x210 (+ (* B210 72) (* A210 51))))
+(assert (= y210 (+ (* B210 21) (* A210 56))))
+
+(minimize Tokens210)
+(check-sat)
+(get-value (Tokens210))
+(pop)
+    
+
+(push)
+(declare-const Tokens211 Int)
+(declare-const A211 Int)
+(declare-const B211 Int)
+(declare-const x211 Int)
+(declare-const y211 Int)
+
+(assert (and (= x211 10000000002014) (= y211 10000000001088)))
+(assert (= Tokens211 (+ B211 (* 3 A211))))
+(assert (= x211 (+ (* B211 48) (* A211 13))))
+(assert (= y211 (+ (* B211 18) (* A211 20))))
+
+(minimize Tokens211)
+(check-sat)
+(get-value (Tokens211))
+(pop)
+    
+
+(push)
+(declare-const Tokens212 Int)
+(declare-const A212 Int)
+(declare-const B212 Int)
+(declare-const x212 Int)
+(declare-const y212 Int)
+
+(assert (and (= x212 10000000008391) (= y212 10000000006820)))
+(assert (= Tokens212 (+ B212 (* 3 A212))))
+(assert (= x212 (+ (* B212 59) (* A212 63))))
+(assert (= y212 (+ (* B212 11) (* A212 80))))
+
+(minimize Tokens212)
+(check-sat)
+(get-value (Tokens212))
+(pop)
+    
+
+(push)
+(declare-const Tokens213 Int)
+(declare-const A213 Int)
+(declare-const B213 Int)
+(declare-const x213 Int)
+(declare-const y213 Int)
+
+(assert (and (= x213 10000000004179) (= y213 10000000016463)))
+(assert (= Tokens213 (+ B213 (* 3 A213))))
+(assert (= x213 (+ (* B213 61) (* A213 18))))
+(assert (= y213 (+ (* B213 22) (* A213 67))))
+
+(minimize Tokens213)
+(check-sat)
+(get-value (Tokens213))
+(pop)
+    
+
+(push)
+(declare-const Tokens214 Int)
+(declare-const A214 Int)
+(declare-const B214 Int)
+(declare-const x214 Int)
+(declare-const y214 Int)
+
+(assert (and (= x214 10000000018368) (= y214 10000000018764)))
+(assert (= Tokens214 (+ B214 (* 3 A214))))
+(assert (= x214 (+ (* B214 54) (* A214 42))))
+(assert (= y214 (+ (* B214 87) (* A214 11))))
+
+(minimize Tokens214)
+(check-sat)
+(get-value (Tokens214))
+(pop)
+    
+
+(push)
+(declare-const Tokens215 Int)
+(declare-const A215 Int)
+(declare-const B215 Int)
+(declare-const x215 Int)
+(declare-const y215 Int)
+
+(assert (and (= x215 10000000002302) (= y215 10000000009541)))
+(assert (= Tokens215 (+ B215 (* 3 A215))))
+(assert (= x215 (+ (* B215 62) (* A215 14))))
+(assert (= y215 (+ (* B215 35) (* A215 92))))
+
+(minimize Tokens215)
+(check-sat)
+(get-value (Tokens215))
+(pop)
+    
+
+(push)
+(declare-const Tokens216 Int)
+(declare-const A216 Int)
+(declare-const B216 Int)
+(declare-const x216 Int)
+(declare-const y216 Int)
+
+(assert (and (= x216 10000000000380) (= y216 10000000010254)))
+(assert (= Tokens216 (+ B216 (* 3 A216))))
+(assert (= x216 (+ (* B216 30) (* A216 18))))
+(assert (= y216 (+ (* B216 16) (* A216 37))))
+
+(minimize Tokens216)
+(check-sat)
+(get-value (Tokens216))
+(pop)
+    
+
+(push)
+(declare-const Tokens217 Int)
+(declare-const A217 Int)
+(declare-const B217 Int)
+(declare-const x217 Int)
+(declare-const y217 Int)
+
+(assert (and (= x217 10000000009433) (= y217 10000000019226)))
+(assert (= Tokens217 (+ B217 (* 3 A217))))
+(assert (= x217 (+ (* B217 24) (* A217 29))))
+(assert (= y217 (+ (* B217 53) (* A217 13))))
+
+(minimize Tokens217)
+(check-sat)
+(get-value (Tokens217))
+(pop)
+    
+
+(push)
+(declare-const Tokens218 Int)
+(declare-const A218 Int)
+(declare-const B218 Int)
+(declare-const x218 Int)
+(declare-const y218 Int)
+
+(assert (and (= x218 10000000006369) (= y218 10000000001604)))
+(assert (= Tokens218 (+ B218 (* 3 A218))))
+(assert (= x218 (+ (* B218 23) (* A218 52))))
+(assert (= y218 (+ (* B218 52) (* A218 19))))
+
+(minimize Tokens218)
+(check-sat)
+(get-value (Tokens218))
+(pop)
+    
+
+(push)
+(declare-const Tokens219 Int)
+(declare-const A219 Int)
+(declare-const B219 Int)
+(declare-const x219 Int)
+(declare-const y219 Int)
+
+(assert (and (= x219 10000000011475) (= y219 10000000011150)))
+(assert (= Tokens219 (+ B219 (* 3 A219))))
+(assert (= x219 (+ (* B219 90) (* A219 55))))
+(assert (= y219 (+ (* B219 29) (* A219 93))))
+
+(minimize Tokens219)
+(check-sat)
+(get-value (Tokens219))
+(pop)
+    
+
+(push)
+(declare-const Tokens220 Int)
+(declare-const A220 Int)
+(declare-const B220 Int)
+(declare-const x220 Int)
+(declare-const y220 Int)
+
+(assert (and (= x220 10000000003936) (= y220 10000000005663)))
+(assert (= Tokens220 (+ B220 (* 3 A220))))
+(assert (= x220 (+ (* B220 94) (* A220 26))))
+(assert (= y220 (+ (* B220 24) (* A220 83))))
+
+(minimize Tokens220)
+(check-sat)
+(get-value (Tokens220))
+(pop)
+    
+
+(push)
+(declare-const Tokens221 Int)
+(declare-const A221 Int)
+(declare-const B221 Int)
+(declare-const x221 Int)
+(declare-const y221 Int)
+
+(assert (and (= x221 10000000015077) (= y221 10000000016430)))
+(assert (= Tokens221 (+ B221 (* 3 A221))))
+(assert (= x221 (+ (* B221 14) (* A221 65))))
+(assert (= y221 (+ (* B221 40) (* A221 34))))
+
+(minimize Tokens221)
+(check-sat)
+(get-value (Tokens221))
+(pop)
+    
+
+(push)
+(declare-const Tokens222 Int)
+(declare-const A222 Int)
+(declare-const B222 Int)
+(declare-const x222 Int)
+(declare-const y222 Int)
+
+(assert (and (= x222 10000000009823) (= y222 10000000005379)))
+(assert (= Tokens222 (+ B222 (* 3 A222))))
+(assert (= x222 (+ (* B222 90) (* A222 19))))
+(assert (= y222 (+ (* B222 27) (* A222 42))))
+
+(minimize Tokens222)
+(check-sat)
+(get-value (Tokens222))
+(pop)
+    
+
+(push)
+(declare-const Tokens223 Int)
+(declare-const A223 Int)
+(declare-const B223 Int)
+(declare-const x223 Int)
+(declare-const y223 Int)
+
+(assert (and (= x223 10000000011940) (= y223 10000000010072)))
+(assert (= Tokens223 (+ B223 (* 3 A223))))
+(assert (= x223 (+ (* B223 20) (* A223 48))))
+(assert (= y223 (+ (* B223 46) (* A223 26))))
+
+(minimize Tokens223)
+(check-sat)
+(get-value (Tokens223))
+(pop)
+    
+
+(push)
+(declare-const Tokens224 Int)
+(declare-const A224 Int)
+(declare-const B224 Int)
+(declare-const x224 Int)
+(declare-const y224 Int)
+
+(assert (and (= x224 10000000006770) (= y224 10000000005302)))
+(assert (= Tokens224 (+ B224 (* 3 A224))))
+(assert (= x224 (+ (* B224 14) (* A224 64))))
+(assert (= y224 (+ (* B224 88) (* A224 26))))
+
+(minimize Tokens224)
+(check-sat)
+(get-value (Tokens224))
+(pop)
+    
+
+(push)
+(declare-const Tokens225 Int)
+(declare-const A225 Int)
+(declare-const B225 Int)
+(declare-const x225 Int)
+(declare-const y225 Int)
+
+(assert (and (= x225 10000000010049) (= y225 10000000014914)))
+(assert (= Tokens225 (+ B225 (* 3 A225))))
+(assert (= x225 (+ (* B225 47) (* A225 11))))
+(assert (= y225 (+ (* B225 17) (* A225 36))))
+
+(minimize Tokens225)
+(check-sat)
+(get-value (Tokens225))
+(pop)
+    
+
+(push)
+(declare-const Tokens226 Int)
+(declare-const A226 Int)
+(declare-const B226 Int)
+(declare-const x226 Int)
+(declare-const y226 Int)
+
+(assert (and (= x226 10000000005203) (= y226 10000000012163)))
+(assert (= Tokens226 (+ B226 (* 3 A226))))
+(assert (= x226 (+ (* B226 13) (* A226 48))))
+(assert (= y226 (+ (* B226 37) (* A226 24))))
+
+(minimize Tokens226)
+(check-sat)
+(get-value (Tokens226))
+(pop)
+    
+
+(push)
+(declare-const Tokens227 Int)
+(declare-const A227 Int)
+(declare-const B227 Int)
+(declare-const x227 Int)
+(declare-const y227 Int)
+
+(assert (and (= x227 10000000005486) (= y227 10000000018849)))
+(assert (= Tokens227 (+ B227 (* 3 A227))))
+(assert (= x227 (+ (* B227 17) (* A227 44))))
+(assert (= y227 (+ (* B227 43) (* A227 29))))
+
+(minimize Tokens227)
+(check-sat)
+(get-value (Tokens227))
+(pop)
+    
+
+(push)
+(declare-const Tokens228 Int)
+(declare-const A228 Int)
+(declare-const B228 Int)
+(declare-const x228 Int)
+(declare-const y228 Int)
+
+(assert (and (= x228 10000000002850) (= y228 10000000003739)))
+(assert (= Tokens228 (+ B228 (* 3 A228))))
+(assert (= x228 (+ (* B228 66) (* A228 16))))
+(assert (= y228 (+ (* B228 71) (* A228 92))))
+
+(minimize Tokens228)
+(check-sat)
+(get-value (Tokens228))
+(pop)
+    
+
+(push)
+(declare-const Tokens229 Int)
+(declare-const A229 Int)
+(declare-const B229 Int)
+(declare-const x229 Int)
+(declare-const y229 Int)
+
+(assert (and (= x229 10000000000524) (= y229 10000000000869)))
+(assert (= Tokens229 (+ B229 (* 3 A229))))
+(assert (= x229 (+ (* B229 13) (* A229 71))))
+(assert (= y229 (+ (* B229 58) (* A229 23))))
+
+(minimize Tokens229)
+(check-sat)
+(get-value (Tokens229))
+(pop)
+    
+
+(push)
+(declare-const Tokens230 Int)
+(declare-const A230 Int)
+(declare-const B230 Int)
+(declare-const x230 Int)
+(declare-const y230 Int)
+
+(assert (and (= x230 10000000006046) (= y230 10000000007545)))
+(assert (= Tokens230 (+ B230 (* 3 A230))))
+(assert (= x230 (+ (* B230 93) (* A230 19))))
+(assert (= y230 (+ (* B230 57) (* A230 90))))
+
+(minimize Tokens230)
+(check-sat)
+(get-value (Tokens230))
+(pop)
+    
+
+(push)
+(declare-const Tokens231 Int)
+(declare-const A231 Int)
+(declare-const B231 Int)
+(declare-const x231 Int)
+(declare-const y231 Int)
+
+(assert (and (= x231 10000000005793) (= y231 10000000011595)))
+(assert (= Tokens231 (+ B231 (* 3 A231))))
+(assert (= x231 (+ (* B231 57) (* A231 11))))
+(assert (= y231 (+ (* B231 35) (* A231 25))))
+
+(minimize Tokens231)
+(check-sat)
+(get-value (Tokens231))
+(pop)
+    
+
+(push)
+(declare-const Tokens232 Int)
+(declare-const A232 Int)
+(declare-const B232 Int)
+(declare-const x232 Int)
+(declare-const y232 Int)
+
+(assert (and (= x232 10000000007922) (= y232 10000000001028)))
+(assert (= Tokens232 (+ B232 (* 3 A232))))
+(assert (= x232 (+ (* B232 13) (* A232 82))))
+(assert (= y232 (+ (* B232 68) (* A232 18))))
+
+(minimize Tokens232)
+(check-sat)
+(get-value (Tokens232))
+(pop)
+    
+
+(push)
+(declare-const Tokens233 Int)
+(declare-const A233 Int)
+(declare-const B233 Int)
+(declare-const x233 Int)
+(declare-const y233 Int)
+
+(assert (and (= x233 10000000003418) (= y233 10000000007671)))
+(assert (= Tokens233 (+ B233 (* 3 A233))))
+(assert (= x233 (+ (* B233 58) (* A233 20))))
+(assert (= y233 (+ (* B233 32) (* A233 37))))
+
+(minimize Tokens233)
+(check-sat)
+(get-value (Tokens233))
+(pop)
+    
+
+(push)
+(declare-const Tokens234 Int)
+(declare-const A234 Int)
+(declare-const B234 Int)
+(declare-const x234 Int)
+(declare-const y234 Int)
+
+(assert (and (= x234 10000000002685) (= y234 10000000002198)))
+(assert (= Tokens234 (+ B234 (* 3 A234))))
+(assert (= x234 (+ (* B234 85) (* A234 15))))
+(assert (= y234 (+ (* B234 40) (* A234 43))))
+
+(minimize Tokens234)
+(check-sat)
+(get-value (Tokens234))
+(pop)
+    
+
+(push)
+(declare-const Tokens235 Int)
+(declare-const A235 Int)
+(declare-const B235 Int)
+(declare-const x235 Int)
+(declare-const y235 Int)
+
+(assert (and (= x235 10000000010676) (= y235 10000000007025)))
+(assert (= Tokens235 (+ B235 (* 3 A235))))
+(assert (= x235 (+ (* B235 38) (* A235 96))))
+(assert (= y235 (+ (* B235 86) (* A235 33))))
+
+(minimize Tokens235)
+(check-sat)
+(get-value (Tokens235))
+(pop)
+    
+
+(push)
+(declare-const Tokens236 Int)
+(declare-const A236 Int)
+(declare-const B236 Int)
+(declare-const x236 Int)
+(declare-const y236 Int)
+
+(assert (and (= x236 10000000012055) (= y236 10000000004385)))
+(assert (= Tokens236 (+ B236 (* 3 A236))))
+(assert (= x236 (+ (* B236 17) (* A236 26))))
+(assert (= y236 (+ (* B236 39) (* A236 12))))
+
+(minimize Tokens236)
+(check-sat)
+(get-value (Tokens236))
+(pop)
+    
+
+(push)
+(declare-const Tokens237 Int)
+(declare-const A237 Int)
+(declare-const B237 Int)
+(declare-const x237 Int)
+(declare-const y237 Int)
+
+(assert (and (= x237 10000000001732) (= y237 10000000004154)))
+(assert (= Tokens237 (+ B237 (* 3 A237))))
+(assert (= x237 (+ (* B237 42) (* A237 16))))
+(assert (= y237 (+ (* B237 24) (* A237 42))))
+
+(minimize Tokens237)
+(check-sat)
+(get-value (Tokens237))
+(pop)
+    
+
+(push)
+(declare-const Tokens238 Int)
+(declare-const A238 Int)
+(declare-const B238 Int)
+(declare-const x238 Int)
+(declare-const y238 Int)
+
+(assert (and (= x238 10000000008324) (= y238 10000000010256)))
+(assert (= Tokens238 (+ B238 (* 3 A238))))
+(assert (= x238 (+ (* B238 23) (* A238 63))))
+(assert (= y238 (+ (* B238 69) (* A238 17))))
+
+(minimize Tokens238)
+(check-sat)
+(get-value (Tokens238))
+(pop)
+    
+
+(push)
+(declare-const Tokens239 Int)
+(declare-const A239 Int)
+(declare-const B239 Int)
+(declare-const x239 Int)
+(declare-const y239 Int)
+
+(assert (and (= x239 10000000009574) (= y239 10000000003092)))
+(assert (= Tokens239 (+ B239 (* 3 A239))))
+(assert (= x239 (+ (* B239 23) (* A239 93))))
+(assert (= y239 (+ (* B239 86) (* A239 14))))
+
+(minimize Tokens239)
+(check-sat)
+(get-value (Tokens239))
+(pop)
+    
+
+(push)
+(declare-const Tokens240 Int)
+(declare-const A240 Int)
+(declare-const B240 Int)
+(declare-const x240 Int)
+(declare-const y240 Int)
+
+(assert (and (= x240 10000000015254) (= y240 10000000017934)))
+(assert (= Tokens240 (+ B240 (* 3 A240))))
+(assert (= x240 (+ (* B240 54) (* A240 12))))
+(assert (= y240 (+ (* B240 14) (* A240 26))))
+
+(minimize Tokens240)
+(check-sat)
+(get-value (Tokens240))
+(pop)
+    
+
+(push)
+(declare-const Tokens241 Int)
+(declare-const A241 Int)
+(declare-const B241 Int)
+(declare-const x241 Int)
+(declare-const y241 Int)
+
+(assert (and (= x241 10000000008834) (= y241 10000000005611)))
+(assert (= Tokens241 (+ B241 (* 3 A241))))
+(assert (= x241 (+ (* B241 15) (* A241 66))))
+(assert (= y241 (+ (* B241 48) (* A241 37))))
+
+(minimize Tokens241)
+(check-sat)
+(get-value (Tokens241))
+(pop)
+    
+
+(push)
+(declare-const Tokens242 Int)
+(declare-const A242 Int)
+(declare-const B242 Int)
+(declare-const x242 Int)
+(declare-const y242 Int)
+
+(assert (and (= x242 10000000010954) (= y242 10000000007754)))
+(assert (= Tokens242 (+ B242 (* 3 A242))))
+(assert (= x242 (+ (* B242 74) (* A242 13))))
+(assert (= y242 (+ (* B242 42) (* A242 33))))
+
+(minimize Tokens242)
+(check-sat)
+(get-value (Tokens242))
+(pop)
+    
+
+(push)
+(declare-const Tokens243 Int)
+(declare-const A243 Int)
+(declare-const B243 Int)
+(declare-const x243 Int)
+(declare-const y243 Int)
+
+(assert (and (= x243 10000000002094) (= y243 10000000001227)))
+(assert (= Tokens243 (+ B243 (* 3 A243))))
+(assert (= x243 (+ (* B243 66) (* A243 39))))
+(assert (= y243 (+ (* B243 25) (* A243 69))))
+
+(minimize Tokens243)
+(check-sat)
+(get-value (Tokens243))
+(pop)
+    
+
+(push)
+(declare-const Tokens244 Int)
+(declare-const A244 Int)
+(declare-const B244 Int)
+(declare-const x244 Int)
+(declare-const y244 Int)
+
+(assert (and (= x244 10000000005635) (= y244 10000000007394)))
+(assert (= Tokens244 (+ B244 (* 3 A244))))
+(assert (= x244 (+ (* B244 77) (* A244 45))))
+(assert (= y244 (+ (* B244 33) (* A244 74))))
+
+(minimize Tokens244)
+(check-sat)
+(get-value (Tokens244))
+(pop)
+    
+
+(push)
+(declare-const Tokens245 Int)
+(declare-const A245 Int)
+(declare-const B245 Int)
+(declare-const x245 Int)
+(declare-const y245 Int)
+
+(assert (and (= x245 10000000002216) (= y245 10000000004880)))
+(assert (= Tokens245 (+ B245 (* 3 A245))))
+(assert (= x245 (+ (* B245 58) (* A245 28))))
+(assert (= y245 (+ (* B245 29) (* A245 96))))
+
+(minimize Tokens245)
+(check-sat)
+(get-value (Tokens245))
+(pop)
+    
+
+(push)
+(declare-const Tokens246 Int)
+(declare-const A246 Int)
+(declare-const B246 Int)
+(declare-const x246 Int)
+(declare-const y246 Int)
+
+(assert (and (= x246 10000000003883) (= y246 10000000008979)))
+(assert (= Tokens246 (+ B246 (* 3 A246))))
+(assert (= x246 (+ (* B246 11) (* A246 54))))
+(assert (= y246 (+ (* B246 83) (* A246 38))))
+
+(minimize Tokens246)
+(check-sat)
+(get-value (Tokens246))
+(pop)
+    
+
+(push)
+(declare-const Tokens247 Int)
+(declare-const A247 Int)
+(declare-const B247 Int)
+(declare-const x247 Int)
+(declare-const y247 Int)
+
+(assert (and (= x247 10000000018312) (= y247 10000000019098)))
+(assert (= Tokens247 (+ B247 (* 3 A247))))
+(assert (= x247 (+ (* B247 56) (* A247 18))))
+(assert (= y247 (+ (* B247 26) (* A247 51))))
+
+(minimize Tokens247)
+(check-sat)
+(get-value (Tokens247))
+(pop)
+    
+
+(push)
+(declare-const Tokens248 Int)
+(declare-const A248 Int)
+(declare-const B248 Int)
+(declare-const x248 Int)
+(declare-const y248 Int)
+
+(assert (and (= x248 10000000004695) (= y248 10000000004836)))
+(assert (= Tokens248 (+ B248 (* 3 A248))))
+(assert (= x248 (+ (* B248 83) (* A248 14))))
+(assert (= y248 (+ (* B248 67) (* A248 43))))
+
+(minimize Tokens248)
+(check-sat)
+(get-value (Tokens248))
+(pop)
+    
+
+(push)
+(declare-const Tokens249 Int)
+(declare-const A249 Int)
+(declare-const B249 Int)
+(declare-const x249 Int)
+(declare-const y249 Int)
+
+(assert (and (= x249 10000000009354) (= y249 10000000006093)))
+(assert (= Tokens249 (+ B249 (* 3 A249))))
+(assert (= x249 (+ (* B249 50) (* A249 26))))
+(assert (= y249 (+ (* B249 29) (* A249 56))))
+
+(minimize Tokens249)
+(check-sat)
+(get-value (Tokens249))
+(pop)
+    
+
+(push)
+(declare-const Tokens250 Int)
+(declare-const A250 Int)
+(declare-const B250 Int)
+(declare-const x250 Int)
+(declare-const y250 Int)
+
+(assert (and (= x250 10000000016231) (= y250 10000000014998)))
+(assert (= Tokens250 (+ B250 (* 3 A250))))
+(assert (= x250 (+ (* B250 59) (* A250 14))))
+(assert (= y250 (+ (* B250 17) (* A250 47))))
+
+(minimize Tokens250)
+(check-sat)
+(get-value (Tokens250))
+(pop)
+    
+
+(push)
+(declare-const Tokens251 Int)
+(declare-const A251 Int)
+(declare-const B251 Int)
+(declare-const x251 Int)
+(declare-const y251 Int)
+
+(assert (and (= x251 10000000003128) (= y251 10000000008114)))
+(assert (= Tokens251 (+ B251 (* 3 A251))))
+(assert (= x251 (+ (* B251 40) (* A251 11))))
+(assert (= y251 (+ (* B251 15) (* A251 83))))
+
+(minimize Tokens251)
+(check-sat)
+(get-value (Tokens251))
+(pop)
+    
+
+(push)
+(declare-const Tokens252 Int)
+(declare-const A252 Int)
+(declare-const B252 Int)
+(declare-const x252 Int)
+(declare-const y252 Int)
+
+(assert (and (= x252 10000000002087) (= y252 10000000002700)))
+(assert (= Tokens252 (+ B252 (* 3 A252))))
+(assert (= x252 (+ (* B252 91) (* A252 30))))
+(assert (= y252 (+ (* B252 72) (* A252 82))))
+
+(minimize Tokens252)
+(check-sat)
+(get-value (Tokens252))
+(pop)
+    
+
+(push)
+(declare-const Tokens253 Int)
+(declare-const A253 Int)
+(declare-const B253 Int)
+(declare-const x253 Int)
+(declare-const y253 Int)
+
+(assert (and (= x253 10000000003380) (= y253 10000000002617)))
+(assert (= Tokens253 (+ B253 (* 3 A253))))
+(assert (= x253 (+ (* B253 72) (* A253 12))))
+(assert (= y253 (+ (* B253 11) (* A253 68))))
+
+(minimize Tokens253)
+(check-sat)
+(get-value (Tokens253))
+(pop)
+    
+
+(push)
+(declare-const Tokens254 Int)
+(declare-const A254 Int)
+(declare-const B254 Int)
+(declare-const x254 Int)
+(declare-const y254 Int)
+
+(assert (and (= x254 10000000002852) (= y254 10000000004528)))
+(assert (= Tokens254 (+ B254 (* 3 A254))))
+(assert (= x254 (+ (* B254 31) (* A254 93))))
+(assert (= y254 (+ (* B254 59) (* A254 27))))
+
+(minimize Tokens254)
+(check-sat)
+(get-value (Tokens254))
+(pop)
+    
+
+(push)
+(declare-const Tokens255 Int)
+(declare-const A255 Int)
+(declare-const B255 Int)
+(declare-const x255 Int)
+(declare-const y255 Int)
+
+(assert (and (= x255 10000000004219) (= y255 10000000010211)))
+(assert (= Tokens255 (+ B255 (* 3 A255))))
+(assert (= x255 (+ (* B255 37) (* A255 15))))
+(assert (= y255 (+ (* B255 33) (* A255 95))))
+
+(minimize Tokens255)
+(check-sat)
+(get-value (Tokens255))
+(pop)
+    
+
+(push)
+(declare-const Tokens256 Int)
+(declare-const A256 Int)
+(declare-const B256 Int)
+(declare-const x256 Int)
+(declare-const y256 Int)
+
+(assert (and (= x256 10000000003486) (= y256 10000000006588)))
+(assert (= Tokens256 (+ B256 (* 3 A256))))
+(assert (= x256 (+ (* B256 17) (* A256 72))))
+(assert (= y256 (+ (* B256 71) (* A256 35))))
+
+(minimize Tokens256)
+(check-sat)
+(get-value (Tokens256))
+(pop)
+    
+
+(push)
+(declare-const Tokens257 Int)
+(declare-const A257 Int)
+(declare-const B257 Int)
+(declare-const x257 Int)
+(declare-const y257 Int)
+
+(assert (and (= x257 10000000001836) (= y257 10000000001421)))
+(assert (= Tokens257 (+ B257 (* 3 A257))))
+(assert (= x257 (+ (* B257 17) (* A257 96))))
+(assert (= y257 (+ (* B257 83) (* A257 25))))
+
+(minimize Tokens257)
+(check-sat)
+(get-value (Tokens257))
+(pop)
+    
+
+(push)
+(declare-const Tokens258 Int)
+(declare-const A258 Int)
+(declare-const B258 Int)
+(declare-const x258 Int)
+(declare-const y258 Int)
+
+(assert (and (= x258 10000000009240) (= y258 10000000003824)))
+(assert (= Tokens258 (+ B258 (* 3 A258))))
+(assert (= x258 (+ (* B258 84) (* A258 94))))
+(assert (= y258 (+ (* B258 92) (* A258 28))))
+
+(minimize Tokens258)
+(check-sat)
+(get-value (Tokens258))
+(pop)
+    
+
+(push)
+(declare-const Tokens259 Int)
+(declare-const A259 Int)
+(declare-const B259 Int)
+(declare-const x259 Int)
+(declare-const y259 Int)
+
+(assert (and (= x259 10000000005132) (= y259 10000000010756)))
+(assert (= Tokens259 (+ B259 (* 3 A259))))
+(assert (= x259 (+ (* B259 54) (* A259 26))))
+(assert (= y259 (+ (* B259 14) (* A259 72))))
+
+(minimize Tokens259)
+(check-sat)
+(get-value (Tokens259))
+(pop)
+    
+
+(push)
+(declare-const Tokens260 Int)
+(declare-const A260 Int)
+(declare-const B260 Int)
+(declare-const x260 Int)
+(declare-const y260 Int)
+
+(assert (and (= x260 10000000005667) (= y260 10000000012574)))
+(assert (= Tokens260 (+ B260 (* 3 A260))))
+(assert (= x260 (+ (* B260 19) (* A260 54))))
+(assert (= y260 (+ (* B260 49) (* A260 11))))
+
+(minimize Tokens260)
+(check-sat)
+(get-value (Tokens260))
+(pop)
+    
+
+(push)
+(declare-const Tokens261 Int)
+(declare-const A261 Int)
+(declare-const B261 Int)
+(declare-const x261 Int)
+(declare-const y261 Int)
+
+(assert (and (= x261 10000000002871) (= y261 10000000007504)))
+(assert (= Tokens261 (+ B261 (* 3 A261))))
+(assert (= x261 (+ (* B261 90) (* A261 27))))
+(assert (= y261 (+ (* B261 16) (* A261 80))))
+
+(minimize Tokens261)
+(check-sat)
+(get-value (Tokens261))
+(pop)
+    
+
+(push)
+(declare-const Tokens262 Int)
+(declare-const A262 Int)
+(declare-const B262 Int)
+(declare-const x262 Int)
+(declare-const y262 Int)
+
+(assert (and (= x262 10000000004540) (= y262 10000000008866)))
+(assert (= Tokens262 (+ B262 (* 3 A262))))
+(assert (= x262 (+ (* B262 28) (* A262 36))))
+(assert (= y262 (+ (* B262 14) (* A262 56))))
+
+(minimize Tokens262)
+(check-sat)
+(get-value (Tokens262))
+(pop)
+    
+
+(push)
+(declare-const Tokens263 Int)
+(declare-const A263 Int)
+(declare-const B263 Int)
+(declare-const x263 Int)
+(declare-const y263 Int)
+
+(assert (and (= x263 10000000012930) (= y263 10000000005855)))
+(assert (= Tokens263 (+ B263 (* 3 A263))))
+(assert (= x263 (+ (* B263 22) (* A263 65))))
+(assert (= y263 (+ (* B263 75) (* A263 17))))
+
+(minimize Tokens263)
+(check-sat)
+(get-value (Tokens263))
+(pop)
+    
+
+(push)
+(declare-const Tokens264 Int)
+(declare-const A264 Int)
+(declare-const B264 Int)
+(declare-const x264 Int)
+(declare-const y264 Int)
+
+(assert (and (= x264 10000000002001) (= y264 10000000005160)))
+(assert (= Tokens264 (+ B264 (* 3 A264))))
+(assert (= x264 (+ (* B264 29) (* A264 87))))
+(assert (= y264 (+ (* B264 90) (* A264 60))))
+
+(minimize Tokens264)
+(check-sat)
+(get-value (Tokens264))
+(pop)
+    
+
+(push)
+(declare-const Tokens265 Int)
+(declare-const A265 Int)
+(declare-const B265 Int)
+(declare-const x265 Int)
+(declare-const y265 Int)
+
+(assert (and (= x265 10000000007211) (= y265 10000000005459)))
+(assert (= Tokens265 (+ B265 (* 3 A265))))
+(assert (= x265 (+ (* B265 21) (* A265 67))))
+(assert (= y265 (+ (* B265 69) (* A265 23))))
+
+(minimize Tokens265)
+(check-sat)
+(get-value (Tokens265))
+(pop)
+    
+
+(push)
+(declare-const Tokens266 Int)
+(declare-const A266 Int)
+(declare-const B266 Int)
+(declare-const x266 Int)
+(declare-const y266 Int)
+
+(assert (and (= x266 10000000005082) (= y266 10000000007842)))
+(assert (= Tokens266 (+ B266 (* 3 A266))))
+(assert (= x266 (+ (* B266 75) (* A266 51))))
+(assert (= y266 (+ (* B266 18) (* A266 93))))
+
+(minimize Tokens266)
+(check-sat)
+(get-value (Tokens266))
+(pop)
+    
+
+(push)
+(declare-const Tokens267 Int)
+(declare-const A267 Int)
+(declare-const B267 Int)
+(declare-const x267 Int)
+(declare-const y267 Int)
+
+(assert (and (= x267 10000000004290) (= y267 10000000003240)))
+(assert (= Tokens267 (+ B267 (* 3 A267))))
+(assert (= x267 (+ (* B267 85) (* A267 50))))
+(assert (= y267 (+ (* B267 36) (* A267 72))))
+
+(minimize Tokens267)
+(check-sat)
+(get-value (Tokens267))
+(pop)
+    
+
+(push)
+(declare-const Tokens268 Int)
+(declare-const A268 Int)
+(declare-const B268 Int)
+(declare-const x268 Int)
+(declare-const y268 Int)
+
+(assert (and (= x268 10000000002229) (= y268 10000000002780)))
+(assert (= Tokens268 (+ B268 (* 3 A268))))
+(assert (= x268 (+ (* B268 25) (* A268 11))))
+(assert (= y268 (+ (* B268 20) (* A268 80))))
+
+(minimize Tokens268)
+(check-sat)
+(get-value (Tokens268))
+(pop)
+    
+
+(push)
+(declare-const Tokens269 Int)
+(declare-const A269 Int)
+(declare-const B269 Int)
+(declare-const x269 Int)
+(declare-const y269 Int)
+
+(assert (and (= x269 10000000005044) (= y269 10000000006436)))
+(assert (= Tokens269 (+ B269 (* 3 A269))))
+(assert (= x269 (+ (* B269 79) (* A269 25))))
+(assert (= y269 (+ (* B269 37) (* A269 58))))
+
+(minimize Tokens269)
+(check-sat)
+(get-value (Tokens269))
+(pop)
+    
+
+(push)
+(declare-const Tokens270 Int)
+(declare-const A270 Int)
+(declare-const B270 Int)
+(declare-const x270 Int)
+(declare-const y270 Int)
+
+(assert (and (= x270 10000000006666) (= y270 10000000006495)))
+(assert (= Tokens270 (+ B270 (* 3 A270))))
+(assert (= x270 (+ (* B270 76) (* A270 29))))
+(assert (= y270 (+ (* B270 25) (* A270 71))))
+
+(minimize Tokens270)
+(check-sat)
+(get-value (Tokens270))
+(pop)
+    
+
+(push)
+(declare-const Tokens271 Int)
+(declare-const A271 Int)
+(declare-const B271 Int)
+(declare-const x271 Int)
+(declare-const y271 Int)
+
+(assert (and (= x271 10000000004153) (= y271 10000000010700)))
+(assert (= Tokens271 (+ B271 (* 3 A271))))
+(assert (= x271 (+ (* B271 24) (* A271 31))))
+(assert (= y271 (+ (* B271 49) (* A271 14))))
+
+(minimize Tokens271)
+(check-sat)
+(get-value (Tokens271))
+(pop)
+    
+
+(push)
+(declare-const Tokens272 Int)
+(declare-const A272 Int)
+(declare-const B272 Int)
+(declare-const x272 Int)
+(declare-const y272 Int)
+
+(assert (and (= x272 10000000014615) (= y272 10000000011959)))
+(assert (= Tokens272 (+ B272 (* 3 A272))))
+(assert (= x272 (+ (* B272 63) (* A272 22))))
+(assert (= y272 (+ (* B272 19) (* A272 72))))
+
+(minimize Tokens272)
+(check-sat)
+(get-value (Tokens272))
+(pop)
+    
+
+(push)
+(declare-const Tokens273 Int)
+(declare-const A273 Int)
+(declare-const B273 Int)
+(declare-const x273 Int)
+(declare-const y273 Int)
+
+(assert (and (= x273 10000000011235) (= y273 10000000013004)))
+(assert (= Tokens273 (+ B273 (* 3 A273))))
+(assert (= x273 (+ (* B273 78) (* A273 13))))
+(assert (= y273 (+ (* B273 19) (* A273 58))))
+
+(minimize Tokens273)
+(check-sat)
+(get-value (Tokens273))
+(pop)
+    
+
+(push)
+(declare-const Tokens274 Int)
+(declare-const A274 Int)
+(declare-const B274 Int)
+(declare-const x274 Int)
+(declare-const y274 Int)
+
+(assert (and (= x274 10000000006307) (= y274 10000000008838)))
+(assert (= Tokens274 (+ B274 (* 3 A274))))
+(assert (= x274 (+ (* B274 34) (* A274 51))))
+(assert (= y274 (+ (* B274 89) (* A274 19))))
+
+(minimize Tokens274)
+(check-sat)
+(get-value (Tokens274))
+(pop)
+    
+
+(push)
+(declare-const Tokens275 Int)
+(declare-const A275 Int)
+(declare-const B275 Int)
+(declare-const x275 Int)
+(declare-const y275 Int)
+
+(assert (and (= x275 10000000015989) (= y275 10000000002619)))
+(assert (= Tokens275 (+ B275 (* 3 A275))))
+(assert (= x275 (+ (* B275 28) (* A275 41))))
+(assert (= y275 (+ (* B275 78) (* A275 11))))
+
+(minimize Tokens275)
+(check-sat)
+(get-value (Tokens275))
+(pop)
+    
+
+(push)
+(declare-const Tokens276 Int)
+(declare-const A276 Int)
+(declare-const B276 Int)
+(declare-const x276 Int)
+(declare-const y276 Int)
+
+(assert (and (= x276 10000000006970) (= y276 10000000009793)))
+(assert (= Tokens276 (+ B276 (* 3 A276))))
+(assert (= x276 (+ (* B276 68) (* A276 34))))
+(assert (= y276 (+ (* B276 47) (* A276 77))))
+
+(minimize Tokens276)
+(check-sat)
+(get-value (Tokens276))
+(pop)
+    
+
+(push)
+(declare-const Tokens277 Int)
+(declare-const A277 Int)
+(declare-const B277 Int)
+(declare-const x277 Int)
+(declare-const y277 Int)
+
+(assert (and (= x277 10000000006962) (= y277 10000000006615)))
+(assert (= Tokens277 (+ B277 (* 3 A277))))
+(assert (= x277 (+ (* B277 11) (* A277 61))))
+(assert (= y277 (+ (* B277 76) (* A277 15))))
+
+(minimize Tokens277)
+(check-sat)
+(get-value (Tokens277))
+(pop)
+    
+
+(push)
+(declare-const Tokens278 Int)
+(declare-const A278 Int)
+(declare-const B278 Int)
+(declare-const x278 Int)
+(declare-const y278 Int)
+
+(assert (and (= x278 10000000018150) (= y278 10000000008886)))
+(assert (= Tokens278 (+ B278 (* 3 A278))))
+(assert (= x278 (+ (* B278 47) (* A278 17))))
+(assert (= y278 (+ (* B278 19) (* A278 48))))
+
+(minimize Tokens278)
+(check-sat)
+(get-value (Tokens278))
+(pop)
+    
+
+(push)
+(declare-const Tokens279 Int)
+(declare-const A279 Int)
+(declare-const B279 Int)
+(declare-const x279 Int)
+(declare-const y279 Int)
+
+(assert (and (= x279 10000000012016) (= y279 10000000000538)))
+(assert (= Tokens279 (+ B279 (* 3 A279))))
+(assert (= x279 (+ (* B279 40) (* A279 12))))
+(assert (= y279 (+ (* B279 14) (* A279 58))))
+
+(minimize Tokens279)
+(check-sat)
+(get-value (Tokens279))
+(pop)
+    
+
+(push)
+(declare-const Tokens280 Int)
+(declare-const A280 Int)
+(declare-const B280 Int)
+(declare-const x280 Int)
+(declare-const y280 Int)
+
+(assert (and (= x280 10000000009284) (= y280 10000000011853)))
+(assert (= Tokens280 (+ B280 (* 3 A280))))
+(assert (= x280 (+ (* B280 11) (* A280 83))))
+(assert (= y280 (+ (* B280 63) (* A280 58))))
+
+(minimize Tokens280)
+(check-sat)
+(get-value (Tokens280))
+(pop)
+    
+
+(push)
+(declare-const Tokens281 Int)
+(declare-const A281 Int)
+(declare-const B281 Int)
+(declare-const x281 Int)
+(declare-const y281 Int)
+
+(assert (and (= x281 10000000006995) (= y281 10000000005695)))
+(assert (= Tokens281 (+ B281 (* 3 A281))))
+(assert (= x281 (+ (* B281 34) (* A281 87))))
+(assert (= y281 (+ (* B281 58) (* A281 35))))
+
+(minimize Tokens281)
+(check-sat)
+(get-value (Tokens281))
+(pop)
+    
+
+(push)
+(declare-const Tokens282 Int)
+(declare-const A282 Int)
+(declare-const B282 Int)
+(declare-const x282 Int)
+(declare-const y282 Int)
+
+(assert (and (= x282 10000000003628) (= y282 10000000001032)))
+(assert (= Tokens282 (+ B282 (* 3 A282))))
+(assert (= x282 (+ (* B282 16) (* A282 99))))
+(assert (= y282 (+ (* B282 87) (* A282 19))))
+
+(minimize Tokens282)
+(check-sat)
+(get-value (Tokens282))
+(pop)
+    
+
+(push)
+(declare-const Tokens283 Int)
+(declare-const A283 Int)
+(declare-const B283 Int)
+(declare-const x283 Int)
+(declare-const y283 Int)
+
+(assert (and (= x283 10000000011033) (= y283 10000000014784)))
+(assert (= Tokens283 (+ B283 (* 3 A283))))
+(assert (= x283 (+ (* B283 27) (* A283 95))))
+(assert (= y283 (+ (* B283 96) (* A283 60))))
+
+(minimize Tokens283)
+(check-sat)
+(get-value (Tokens283))
+(pop)
+    
+
+(push)
+(declare-const Tokens284 Int)
+(declare-const A284 Int)
+(declare-const B284 Int)
+(declare-const x284 Int)
+(declare-const y284 Int)
+
+(assert (and (= x284 10000000014712) (= y284 10000000008603)))
+(assert (= Tokens284 (+ B284 (* 3 A284))))
+(assert (= x284 (+ (* B284 95) (* A284 74))))
+(assert (= y284 (+ (* B284 20) (* A284 91))))
+
+(minimize Tokens284)
+(check-sat)
+(get-value (Tokens284))
+(pop)
+    
+
+(push)
+(declare-const Tokens285 Int)
+(declare-const A285 Int)
+(declare-const B285 Int)
+(declare-const x285 Int)
+(declare-const y285 Int)
+
+(assert (and (= x285 10000000009865) (= y285 10000000006880)))
+(assert (= Tokens285 (+ B285 (* 3 A285))))
+(assert (= x285 (+ (* B285 75) (* A285 85))))
+(assert (= y285 (+ (* B285 96) (* A285 19))))
+
+(minimize Tokens285)
+(check-sat)
+(get-value (Tokens285))
+(pop)
+    
+
+(push)
+(declare-const Tokens286 Int)
+(declare-const A286 Int)
+(declare-const B286 Int)
+(declare-const x286 Int)
+(declare-const y286 Int)
+
+(assert (and (= x286 10000000016675) (= y286 10000000012161)))
+(assert (= Tokens286 (+ B286 (* 3 A286))))
+(assert (= x286 (+ (* B286 56) (* A286 13))))
+(assert (= y286 (+ (* B286 23) (* A286 62))))
+
+(minimize Tokens286)
+(check-sat)
+(get-value (Tokens286))
+(pop)
+    
+
+(push)
+(declare-const Tokens287 Int)
+(declare-const A287 Int)
+(declare-const B287 Int)
+(declare-const x287 Int)
+(declare-const y287 Int)
+
+(assert (and (= x287 10000000008350) (= y287 10000000014081)))
+(assert (= Tokens287 (+ B287 (* 3 A287))))
+(assert (= x287 (+ (* B287 83) (* A287 27))))
+(assert (= y287 (+ (* B287 74) (* A287 97))))
+
+(minimize Tokens287)
+(check-sat)
+(get-value (Tokens287))
+(pop)
+    
+
+(push)
+(declare-const Tokens288 Int)
+(declare-const A288 Int)
+(declare-const B288 Int)
+(declare-const x288 Int)
+(declare-const y288 Int)
+
+(assert (and (= x288 10000000008877) (= y288 10000000007929)))
+(assert (= Tokens288 (+ B288 (* 3 A288))))
+(assert (= x288 (+ (* B288 41) (* A288 88))))
+(assert (= y288 (+ (* B288 92) (* A288 13))))
+
+(minimize Tokens288)
+(check-sat)
+(get-value (Tokens288))
+(pop)
+    
+
+(push)
+(declare-const Tokens289 Int)
+(declare-const A289 Int)
+(declare-const B289 Int)
+(declare-const x289 Int)
+(declare-const y289 Int)
+
+(assert (and (= x289 10000000007077) (= y289 10000000010047)))
+(assert (= Tokens289 (+ B289 (* 3 A289))))
+(assert (= x289 (+ (* B289 82) (* A289 29))))
+(assert (= y289 (+ (* B289 16) (* A289 95))))
+
+(minimize Tokens289)
+(check-sat)
+(get-value (Tokens289))
+(pop)
+    
+
+(push)
+(declare-const Tokens290 Int)
+(declare-const A290 Int)
+(declare-const B290 Int)
+(declare-const x290 Int)
+(declare-const y290 Int)
+
+(assert (and (= x290 10000000001142) (= y290 10000000002599)))
+(assert (= Tokens290 (+ B290 (* 3 A290))))
+(assert (= x290 (+ (* B290 17) (* A290 63))))
+(assert (= y290 (+ (* B290 93) (* A290 64))))
+
+(minimize Tokens290)
+(check-sat)
+(get-value (Tokens290))
+(pop)
+    
+
+(push)
+(declare-const Tokens291 Int)
+(declare-const A291 Int)
+(declare-const B291 Int)
+(declare-const x291 Int)
+(declare-const y291 Int)
+
+(assert (and (= x291 10000000000219) (= y291 10000000008333)))
+(assert (= Tokens291 (+ B291 (* 3 A291))))
+(assert (= x291 (+ (* B291 13) (* A291 47))))
+(assert (= y291 (+ (* B291 59) (* A291 20))))
+
+(minimize Tokens291)
+(check-sat)
+(get-value (Tokens291))
+(pop)
+    
+
+(push)
+(declare-const Tokens292 Int)
+(declare-const A292 Int)
+(declare-const B292 Int)
+(declare-const x292 Int)
+(declare-const y292 Int)
+
+(assert (and (= x292 10000000018919) (= y292 10000000011844)))
+(assert (= Tokens292 (+ B292 (* 3 A292))))
+(assert (= x292 (+ (* B292 75) (* A292 22))))
+(assert (= y292 (+ (* B292 20) (* A292 72))))
+
+(minimize Tokens292)
+(check-sat)
+(get-value (Tokens292))
+(pop)
+    
+
+(push)
+(declare-const Tokens293 Int)
+(declare-const A293 Int)
+(declare-const B293 Int)
+(declare-const x293 Int)
+(declare-const y293 Int)
+
+(assert (and (= x293 10000000007180) (= y293 10000000007303)))
+(assert (= Tokens293 (+ B293 (* 3 A293))))
+(assert (= x293 (+ (* B293 26) (* A293 59))))
+(assert (= y293 (+ (* B293 53) (* A293 35))))
+
+(minimize Tokens293)
+(check-sat)
+(get-value (Tokens293))
+(pop)
+    
+
+(push)
+(declare-const Tokens294 Int)
+(declare-const A294 Int)
+(declare-const B294 Int)
+(declare-const x294 Int)
+(declare-const y294 Int)
+
+(assert (and (= x294 10000000011524) (= y294 10000000003158)))
+(assert (= Tokens294 (+ B294 (* 3 A294))))
+(assert (= x294 (+ (* B294 66) (* A294 14))))
+(assert (= y294 (+ (* B294 15) (* A294 63))))
+
+(minimize Tokens294)
+(check-sat)
+(get-value (Tokens294))
+(pop)
+    
+
+(push)
+(declare-const Tokens295 Int)
+(declare-const A295 Int)
+(declare-const B295 Int)
+(declare-const x295 Int)
+(declare-const y295 Int)
+
+(assert (and (= x295 10000000010277) (= y295 10000000000657)))
+(assert (= Tokens295 (+ B295 (* 3 A295))))
+(assert (= x295 (+ (* B295 64) (* A295 19))))
+(assert (= y295 (+ (* B295 25) (* A295 41))))
+
+(minimize Tokens295)
+(check-sat)
+(get-value (Tokens295))
+(pop)
+    
+
+(push)
+(declare-const Tokens296 Int)
+(declare-const A296 Int)
+(declare-const B296 Int)
+(declare-const x296 Int)
+(declare-const y296 Int)
+
+(assert (and (= x296 10000000005077) (= y296 10000000001297)))
+(assert (= Tokens296 (+ B296 (* 3 A296))))
+(assert (= x296 (+ (* B296 69) (* A296 13))))
+(assert (= y296 (+ (* B296 15) (* A296 13))))
+
+(minimize Tokens296)
+(check-sat)
+(get-value (Tokens296))
+(pop)
+    
+
+(push)
+(declare-const Tokens297 Int)
+(declare-const A297 Int)
+(declare-const B297 Int)
+(declare-const x297 Int)
+(declare-const y297 Int)
+
+(assert (and (= x297 10000000015444) (= y297 10000000009504)))
+(assert (= Tokens297 (+ B297 (* 3 A297))))
+(assert (= x297 (+ (* B297 98) (* A297 58))))
+(assert (= y297 (+ (* B297 31) (* A297 65))))
+
+(minimize Tokens297)
+(check-sat)
+(get-value (Tokens297))
+(pop)
+    
+
+(push)
+(declare-const Tokens298 Int)
+(declare-const A298 Int)
+(declare-const B298 Int)
+(declare-const x298 Int)
+(declare-const y298 Int)
+
+(assert (and (= x298 10000000007160) (= y298 10000000002984)))
+(assert (= Tokens298 (+ B298 (* 3 A298))))
+(assert (= x298 (+ (* B298 70) (* A298 20))))
+(assert (= y298 (+ (* B298 11) (* A298 87))))
+
+(minimize Tokens298)
+(check-sat)
+(get-value (Tokens298))
+(pop)
+    
+
+(push)
+(declare-const Tokens299 Int)
+(declare-const A299 Int)
+(declare-const B299 Int)
+(declare-const x299 Int)
+(declare-const y299 Int)
+
+(assert (and (= x299 10000000011027) (= y299 10000000000233)))
+(assert (= Tokens299 (+ B299 (* 3 A299))))
+(assert (= x299 (+ (* B299 65) (* A299 13))))
+(assert (= y299 (+ (* B299 33) (* A299 48))))
+
+(minimize Tokens299)
+(check-sat)
+(get-value (Tokens299))
+(pop)
+    
+
+(push)
+(declare-const Tokens300 Int)
+(declare-const A300 Int)
+(declare-const B300 Int)
+(declare-const x300 Int)
+(declare-const y300 Int)
+
+(assert (and (= x300 10000000005474) (= y300 10000000005171)))
+(assert (= Tokens300 (+ B300 (* 3 A300))))
+(assert (= x300 (+ (* B300 11) (* A300 67))))
+(assert (= y300 (+ (* B300 80) (* A300 13))))
+
+(minimize Tokens300)
+(check-sat)
+(get-value (Tokens300))
+(pop)
+    
+
+(push)
+(declare-const Tokens301 Int)
+(declare-const A301 Int)
+(declare-const B301 Int)
+(declare-const x301 Int)
+(declare-const y301 Int)
+
+(assert (and (= x301 10000000007806) (= y301 10000000005373)))
+(assert (= Tokens301 (+ B301 (* 3 A301))))
+(assert (= x301 (+ (* B301 41) (* A301 76))))
+(assert (= y301 (+ (* B301 97) (* A301 39))))
+
+(minimize Tokens301)
+(check-sat)
+(get-value (Tokens301))
+(pop)
+    
+
+(push)
+(declare-const Tokens302 Int)
+(declare-const A302 Int)
+(declare-const B302 Int)
+(declare-const x302 Int)
+(declare-const y302 Int)
+
+(assert (and (= x302 10000000001598) (= y302 10000000004511)))
+(assert (= Tokens302 (+ B302 (* 3 A302))))
+(assert (= x302 (+ (* B302 90) (* A302 22))))
+(assert (= y302 (+ (* B302 41) (* A302 96))))
+
+(minimize Tokens302)
+(check-sat)
+(get-value (Tokens302))
+(pop)
+    
+
+(push)
+(declare-const Tokens303 Int)
+(declare-const A303 Int)
+(declare-const B303 Int)
+(declare-const x303 Int)
+(declare-const y303 Int)
+
+(assert (and (= x303 10000000008699) (= y303 10000000004420)))
+(assert (= Tokens303 (+ B303 (* 3 A303))))
+(assert (= x303 (+ (* B303 89) (* A303 22))))
+(assert (= y303 (+ (* B303 16) (* A303 35))))
+
+(minimize Tokens303)
+(check-sat)
+(get-value (Tokens303))
+(pop)
+    
+
+(push)
+(declare-const Tokens304 Int)
+(declare-const A304 Int)
+(declare-const B304 Int)
+(declare-const x304 Int)
+(declare-const y304 Int)
+
+(assert (and (= x304 10000000004356) (= y304 10000000009552)))
+(assert (= Tokens304 (+ B304 (* 3 A304))))
+(assert (= x304 (+ (* B304 75) (* A304 12))))
+(assert (= y304 (+ (* B304 73) (* A304 96))))
+
+(minimize Tokens304)
+(check-sat)
+(get-value (Tokens304))
+(pop)
+    
+
+(push)
+(declare-const Tokens305 Int)
+(declare-const A305 Int)
+(declare-const B305 Int)
+(declare-const x305 Int)
+(declare-const y305 Int)
+
+(assert (and (= x305 10000000003774) (= y305 10000000003582)))
+(assert (= Tokens305 (+ B305 (* 3 A305))))
+(assert (= x305 (+ (* B305 85) (* A305 36))))
+(assert (= y305 (+ (* B305 31) (* A305 78))))
+
+(minimize Tokens305)
+(check-sat)
+(get-value (Tokens305))
+(pop)
+    
+
+(push)
+(declare-const Tokens306 Int)
+(declare-const A306 Int)
+(declare-const B306 Int)
+(declare-const x306 Int)
+(declare-const y306 Int)
+
+(assert (and (= x306 10000000006840) (= y306 10000000008420)))
+(assert (= Tokens306 (+ B306 (* 3 A306))))
+(assert (= x306 (+ (* B306 18) (* A306 90))))
+(assert (= y306 (+ (* B306 94) (* A306 50))))
+
+(minimize Tokens306)
+(check-sat)
+(get-value (Tokens306))
+(pop)
+    
+
+(push)
+(declare-const Tokens307 Int)
+(declare-const A307 Int)
+(declare-const B307 Int)
+(declare-const x307 Int)
+(declare-const y307 Int)
+
+(assert (and (= x307 10000000007719) (= y307 10000000009653)))
+(assert (= Tokens307 (+ B307 (* 3 A307))))
+(assert (= x307 (+ (* B307 27) (* A307 52))))
+(assert (= y307 (+ (* B307 53) (* A307 25))))
+
+(minimize Tokens307)
+(check-sat)
+(get-value (Tokens307))
+(pop)
+    
+
+(push)
+(declare-const Tokens308 Int)
+(declare-const A308 Int)
+(declare-const B308 Int)
+(declare-const x308 Int)
+(declare-const y308 Int)
+
+(assert (and (= x308 10000000006198) (= y308 10000000004536)))
+(assert (= Tokens308 (+ B308 (* 3 A308))))
+(assert (= x308 (+ (* B308 22) (* A308 65))))
+(assert (= y308 (+ (* B308 53) (* A308 46))))
+
+(minimize Tokens308)
+(check-sat)
+(get-value (Tokens308))
+(pop)
+    
+
+(push)
+(declare-const Tokens309 Int)
+(declare-const A309 Int)
+(declare-const B309 Int)
+(declare-const x309 Int)
+(declare-const y309 Int)
+
+(assert (and (= x309 10000000012432) (= y309 10000000012604)))
+(assert (= Tokens309 (+ B309 (* 3 A309))))
+(assert (= x309 (+ (* B309 16) (* A309 76))))
+(assert (= y309 (+ (* B309 42) (* A309 49))))
+
+(minimize Tokens309)
+(check-sat)
+(get-value (Tokens309))
+(pop)
+    
+
+(push)
+(declare-const Tokens310 Int)
+(declare-const A310 Int)
+(declare-const B310 Int)
+(declare-const x310 Int)
+(declare-const y310 Int)
+
+(assert (and (= x310 10000000017749) (= y310 10000000003123)))
+(assert (= Tokens310 (+ B310 (* 3 A310))))
+(assert (= x310 (+ (* B310 49) (* A310 21))))
+(assert (= y310 (+ (* B310 11) (* A310 62))))
+
+(minimize Tokens310)
+(check-sat)
+(get-value (Tokens310))
+(pop)
+    
+
+(push)
+(declare-const Tokens311 Int)
+(declare-const A311 Int)
+(declare-const B311 Int)
+(declare-const x311 Int)
+(declare-const y311 Int)
+
+(assert (and (= x311 10000000007595) (= y311 10000000004068)))
+(assert (= Tokens311 (+ B311 (* 3 A311))))
+(assert (= x311 (+ (* B311 91) (* A311 35))))
+(assert (= y311 (+ (* B311 34) (* A311 69))))
+
+(minimize Tokens311)
+(check-sat)
+(get-value (Tokens311))
+(pop)
+    
+
+(push)
+(declare-const Tokens312 Int)
+(declare-const A312 Int)
+(declare-const B312 Int)
+(declare-const x312 Int)
+(declare-const y312 Int)
+
+(assert (and (= x312 10000000003766) (= y312 10000000007280)))
+(assert (= Tokens312 (+ B312 (* 3 A312))))
+(assert (= x312 (+ (* B312 14) (* A312 28))))
+(assert (= y312 (+ (* B312 52) (* A312 26))))
+
+(minimize Tokens312)
+(check-sat)
+(get-value (Tokens312))
+(pop)
+    
+
+(push)
+(declare-const Tokens313 Int)
+(declare-const A313 Int)
+(declare-const B313 Int)
+(declare-const x313 Int)
+(declare-const y313 Int)
+
+(assert (and (= x313 10000000003754) (= y313 10000000011501)))
+(assert (= Tokens313 (+ B313 (* 3 A313))))
+(assert (= x313 (+ (* B313 11) (* A313 63))))
+(assert (= y313 (+ (* B313 93) (* A313 62))))
+
+(minimize Tokens313)
+(check-sat)
+(get-value (Tokens313))
+(pop)
+    
+
+(push)
+(declare-const Tokens314 Int)
+(declare-const A314 Int)
+(declare-const B314 Int)
+(declare-const x314 Int)
+(declare-const y314 Int)
+
+(assert (and (= x314 10000000000460) (= y314 10000000000790)))
+(assert (= Tokens314 (+ B314 (* 3 A314))))
+(assert (= x314 (+ (* B314 54) (* A314 32))))
+(assert (= y314 (+ (* B314 11) (* A314 74))))
+
+(minimize Tokens314)
+(check-sat)
+(get-value (Tokens314))
+(pop)
+    
+
+(push)
+(declare-const Tokens315 Int)
+(declare-const A315 Int)
+(declare-const B315 Int)
+(declare-const x315 Int)
+(declare-const y315 Int)
+
+(assert (and (= x315 10000000010761) (= y315 10000000006657)))
+(assert (= Tokens315 (+ B315 (* 3 A315))))
+(assert (= x315 (+ (* B315 61) (* A315 76))))
+(assert (= y315 (+ (* B315 73) (* A315 16))))
+
+(minimize Tokens315)
+(check-sat)
+(get-value (Tokens315))
+(pop)
+    
+
+(push)
+(declare-const Tokens316 Int)
+(declare-const A316 Int)
+(declare-const B316 Int)
+(declare-const x316 Int)
+(declare-const y316 Int)
+
+(assert (and (= x316 10000000001088) (= y316 10000000001039)))
+(assert (= Tokens316 (+ B316 (* 3 A316))))
+(assert (= x316 (+ (* B316 72) (* A316 26))))
+(assert (= y316 (+ (* B316 23) (* A316 33))))
+
+(minimize Tokens316)
+(check-sat)
+(get-value (Tokens316))
+(pop)
+    
+
+(push)
+(declare-const Tokens317 Int)
+(declare-const A317 Int)
+(declare-const B317 Int)
+(declare-const x317 Int)
+(declare-const y317 Int)
+
+(assert (and (= x317 10000000001192) (= y317 10000000011936)))
+(assert (= Tokens317 (+ B317 (* 3 A317))))
+(assert (= x317 (+ (* B317 45) (* A317 53))))
+(assert (= y317 (+ (* B317 84) (* A317 15))))
+
+(minimize Tokens317)
+(check-sat)
+(get-value (Tokens317))
+(pop)
+    
+
+(push)
+(declare-const Tokens318 Int)
+(declare-const A318 Int)
+(declare-const B318 Int)
+(declare-const x318 Int)
+(declare-const y318 Int)
+
+(assert (and (= x318 10000000009334) (= y318 10000000009268)))
+(assert (= Tokens318 (+ B318 (* 3 A318))))
+(assert (= x318 (+ (* B318 75) (* A318 62))))
+(assert (= y318 (+ (* B318 90) (* A318 14))))
+
+(minimize Tokens318)
+(check-sat)
+(get-value (Tokens318))
+(pop)
+    
+
+(push)
+(declare-const Tokens319 Int)
+(declare-const A319 Int)
+(declare-const B319 Int)
+(declare-const x319 Int)
+(declare-const y319 Int)
+
+(assert (and (= x319 10000000012623) (= y319 10000000001614)))
+(assert (= Tokens319 (+ B319 (* 3 A319))))
+(assert (= x319 (+ (* B319 71) (* A319 27))))
+(assert (= y319 (+ (* B319 13) (* A319 86))))
+
+(minimize Tokens319)
+(check-sat)
+(get-value (Tokens319))
+(pop)
+    
