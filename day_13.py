@@ -1,3 +1,5 @@
+# Solution using Z3 | https://adventofcode.com/2024/day/13
+
 from collections import defaultdict
 
 def d13_parse(input: str) -> dict:
