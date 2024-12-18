@@ -20,7 +20,7 @@ def d18_pathfind(grid: list) -> int:
     dirs = [(0,1),(1,0),(-1,0),(0,-1)]
     best = {start: 0}
     while check:
-        _, x, y, s = heapq.heappop(check)
+        d, x, y, s = heapq.heappop(check)
         if (x,y) == end: return s
         if (x,y) in processed: continue
         processed.add((x,y))
@@ -33,7 +33,6 @@ def d18_pathfind(grid: list) -> int:
                 dist = score + d18_distance(r,c)
                 heapq.heappush(check, (dist, r, c, score))
     return -1
-
 
 def day18_solve1(input: str) -> int: # Ans: 354
     return d18_pathfind(d18_parse(input))
