@@ -3,3 +3,5 @@ Solutions for the yearly Advent of Code challenge, currently done:
   https://adventofcode.com/2024
 
 - ?
+
+The repo also includes all my CS50 projects.
